@@ -2,1582 +2,1590 @@ game.png
 size:2048,2048
 repeat:none
 BuildingIcons/Althing
-bounds:885,1283,100,101
-BuildingIcons/Amphitheater Great Writing Slot
-bounds:1414,682,200,200
+bounds:1868,1793,100,101
 BuildingIcons/Baray
-bounds:1023,891,100,100
-BuildingIcons/Broadway Great Music Slot 1
-bounds:1798,986,200,200
-BuildingIcons/Broadway Great Music Slot 2
-bounds:1798,986,200,200
-BuildingIcons/Broadway Great Music Slot 3
-bounds:1798,986,200,200
+bounds:1864,1487,100,100
+BuildingIcons/Blast Furnace
+bounds:1126,174,100,100
 BuildingIcons/Cacicazgo
-bounds:806,1386,200,200
+bounds:404,1444,200,200
+BuildingIcons/Candi
+bounds:1850,467,100,100
 BuildingIcons/Canton Factory
 bounds:2,38,400,400
 BuildingIcons/Cathedral Great Art Slot
-bounds:1624,1644,200,200
+bounds:606,195,200,200
+BuildingIcons/East India Company
+bounds:1954,1067,90,99
 BuildingIcons/Falu Gruva
-bounds:1877,378,100,100
+bounds:1852,671,100,100
 BuildingIcons/Gemcutter
 bounds:2,842,400,400
-BuildingIcons/Georgian Gurdwara
-bounds:808,234,200,200
-BuildingIcons/Gurdwara
-bounds:808,234,200,200
 BuildingIcons/Globe Theatre
-bounds:1175,982,200,200
-BuildingIcons/Governor's Mansion
-bounds:1212,72,200,200
+bounds:404,393,200,200
+BuildingIcons/Grocer
+bounds:846,681,100,100
 BuildingIcons/Hermitage Great Art Slot 1
-bounds:606,438,200,200
+bounds:1212,1242,200,200
 BuildingIcons/Hermitage Great Art Slot 2
-bounds:606,438,200,200
+bounds:1212,1242,200,200
 BuildingIcons/Hermitage Great Art Slot 3
-bounds:606,438,200,200
+bounds:1212,1242,200,200
+BuildingIcons/Hydro Plant
+bounds:608,93,100,100
 BuildingIcons/Ikanda
-bounds:1479,884,100,100
+bounds:1414,1138,100,100
 BuildingIcons/Irish Pub
-bounds:1785,884,100,100
+bounds:1852,875,100,100
 BuildingIcons/Jarliq
-bounds:1025,30,100,100
+bounds:1852,1181,100,100
 BuildingIcons/King Ezana's Stele
-bounds:1212,678,200,200
+bounds:404,191,200,200
 BuildingIcons/Knyaz Court
-bounds:1377,884,100,100
+bounds:1859,1283,100,100
+BuildingIcons/Kyawwat
+bounds:1484,314,100,100
 BuildingIcons/Lion's Gate
 bounds:2,1244,400,400
 BuildingIcons/Louvre Great Art Slot 3
-bounds:1064,1846,200,200
+bounds:1010,1444,200,200
 BuildingIcons/Louvre Great Art Slot 1
-bounds:1064,1846,200,200
+bounds:1010,1444,200,200
 BuildingIcons/Louvre Great Art Slot 2
-bounds:1064,1846,200,200
+bounds:1010,1444,200,200
 BuildingIcons/Louvre Great Art Slot 4
-bounds:1064,1846,200,200
+bounds:1010,1444,200,200
+BuildingIcons/Madrasah
+bounds:948,681,100,100
 BuildingIcons/Murus Gallicus
-bounds:987,1284,100,100
+bounds:1868,1691,100,100
 BuildingIcons/Musician Guild
-bounds:606,640,200,200
+bounds:606,1242,200,200
 BuildingIcons/Mysore Palace
-bounds:1468,1846,200,200
+bounds:1598,982,200,200
+BuildingIcons/National Visitor's Center
+bounds:1406,934,100,100
+BuildingIcons/Parthenon
+bounds:914,880,100,100
 BuildingIcons/Quara U'y
-bounds:1023,993,100,100
+bounds:1864,1589,100,100
+BuildingIcons/Sauna
+bounds:1388,424,100,100
 BuildingIcons/Sistine Chapel Great Art Slot 1
-bounds:1192,1184,200,200
+bounds:404,1040,200,200
 BuildingIcons/Sistine Chapel Great Art Slot 2
-bounds:1192,1184,200,200
+bounds:404,1040,200,200
 BuildingIcons/Ski Resort
-bounds:1210,1442,200,200
+bounds:1010,1040,200,200
 BuildingIcons/Stave Church
-bounds:1261,880,100,100
+bounds:1414,1342,100,100
 BuildingIcons/Stone Mason
-bounds:821,1042,200,200
+bounds:606,1444,200,200
+BuildingIcons/Textile Mill
+bounds:1942,61,100,100
 BuildingIcons/The Way of Chumaks
-bounds:1010,436,200,200
+bounds:1382,18,200,200
+BuildingIcons/Tim Hortons
+bounds:1016,880,100,100
+BuildingIcons/Vo Khi
+bounds:1388,526,100,100
 BuildingIcons/Watch Tower
-bounds:1872,1946,100,100
+bounds:1852,1079,100,100
 BuildingIcons/Yam Route
-bounds:1670,1846,200,200
+bounds:808,397,200,200
+BuildingIcons/Zoo
+bounds:812,880,100,100
 ImprovementIcons/Brazilwood Camp
-bounds:1127,132,82,100
+bounds:1961,1352,82,100
 ImprovementIcons/Feitoria
-bounds:1887,884,100,100
+bounds:1852,773,100,100
 ImprovementIcons/Harjis
-bounds:1212,476,200,200
+bounds:808,195,200,200
+ImprovementIcons/Land Trade Route (Production)
+bounds:1382,322,100,100
+BuildingIcons/Caravan
+bounds:1382,322,100,100
+ImprovementIcons/Land Trade Route (Food)
+bounds:1382,322,100,100
+ImprovementIcons/Land Trade Route (Gold)
+bounds:1382,322,100,100
+ImprovementIcons/Sea Trade Route (Gold)
+bounds:1686,72,100,100
+BuildingIcons/Cargo Ship
+bounds:1686,72,100,100
+ImprovementIcons/Sea Trade Route (Food)
+bounds:1686,72,100,100
+ImprovementIcons/Sea Trade Route (Production)
+bounds:1686,72,100,100
 ImprovementIcons/Tibetan Monastery
-bounds:1008,1588,200,200
+bounds:808,1444,200,200
+ImprovementIcons/Tipi
+bounds:1954,1168,92,100
+NationIcons/Aksum
+bounds:1952,411,90,90
+NationIcons/Ayyubids
+bounds:1504,620,90,90
+NationIcons/Belgium
+bounds:404,780,90,90
 NationIcons/Boers
-bounds:1023,1095,150,150
-NationIcons/Burma
-bounds:1818,480,200,200
-NationIcons/Finland
-bounds:823,32,200,200
+bounds:1868,1896,150,150
+NationIcons/Brunei
+bounds:1504,804,90,90
+NationIcons/Byzantium
+bounds:1402,730,100,100
+NationIcons/Carthage
+bounds:710,880,100,100
+NationIcons/Ethiopia
+bounds:1584,24,100,100
 NationIcons/Gaul
-bounds:806,1790,256,256
-NationIcons/Golden Horde
-bounds:1414,480,200,200
-NationIcons/Goths
-bounds:621,32,200,200
-UnitPromotionIcons/Drauhtinon
-bounds:621,32,200,200
-NationIcons/Hungary
-bounds:1596,1188,200,200
+bounds:1610,1790,256,256
+NationIcons/Indonesia
+bounds:1280,236,100,100
 NationIcons/Khmer
-bounds:404,438,200,200
-NationIcons/Romania
-bounds:1616,682,200,200
+bounds:1010,1242,200,200
+NationIcons/Kongo
+bounds:1382,220,100,100
+UnitIcons/Ngao Mbeba
+bounds:1382,220,100,100
+NationIcons/Madagascar
+bounds:1504,712,90,90
+NationIcons/Mexico
+bounds:496,780,90,90
+NationIcons/Nubia
+bounds:1954,687,90,90
+NationIcons/Oman
+bounds:1414,1444,189,200
 NationIcons/Scotland
-bounds:806,1588,200,200
+bounds:1610,1588,200,200
+NationIcons/Shoshone
+bounds:812,93,100,100
+NationIcons/Sioux
+bounds:1952,503,90,90
+NationIcons/Switzerland
+bounds:1954,779,90,90
+NationIcons/The Maya
+bounds:1126,378,100,100
+NationIcons/Tibet
+bounds:1954,595,90,90
 NationIcons/Tonga
-bounds:1010,638,200,200
-NationIcons/Wales
-bounds:1798,1188,200,200
+bounds:1598,1184,200,200
+NationIcons/Venice
+bounds:1050,681,100,100
+NationIcons/Yugoslavia
+bounds:1954,871,92,92
 NationIcons/Zimbabwe
-bounds:1422,1644,200,200
+bounds:1598,780,200,200
+PolicyIcons/Academy of Sciences
+bounds:1788,230,50,50
 PolicyIcons/Artistic Genius
-bounds:1418,1390,50,50
+bounds:1807,1374,50,50
 PolicyIcons/Avant Garde
-bounds:1414,78,50,50
+bounds:1220,988,50,50
 PolicyIcons/Capitalism
-bounds:1782,1390,50,50
+bounds:1800,1010,50,50
+PolicyIcons/Clausewitz's Legacy
+bounds:1254,734,50,50
 PolicyIcons/Colonialism
-bounds:1522,1390,50,50
+bounds:1800,1270,50,50
 PolicyIcons/Communism
-bounds:1168,1794,50,50
-PolicyIcons/Covert Action
-bounds:1675,278,200,200
+bounds:1812,1634,50,50
+PolicyIcons/Consulates
+bounds:1788,126,50,50
+PolicyIcons/Cultural Centers
+bounds:1788,178,50,50
+PolicyIcons/Cultural Diplomacy
+bounds:1228,422,50,50
 PolicyIcons/Cultural Exchange
-bounds:1414,338,50,50
-PolicyIcons/Double Agents
-bounds:1212,274,200,200
+bounds:1800,958,50,50
 PolicyIcons/Elite Forces
-bounds:1989,934,50,50
+bounds:1064,988,50,50
 PolicyIcons/Entrepreneurship
-bounds:1678,1390,50,50
+bounds:1800,1114,50,50
+PolicyIcons/Fine Arts
+bounds:1241,526,50,50
+PolicyIcons/Five-Year Plan
+bounds:1228,318,50,50
 PolicyIcons/Flourishing of the Arts
-bounds:1023,845,51,44
+bounds:632,47,51,44
+PolicyIcons/Hero of the People
+bounds:1254,630,50,50
 PolicyIcons/Iron Curtain
-bounds:1125,1043,48,50
+bounds:1010,547,48,50
 PolicyIcons/Maritime Infrastructure
-bounds:1116,1794,50,50
+bounds:1812,1686,50,50
+PolicyIcons/Media Culture
+bounds:1794,490,50,50
+PolicyIcons/Mercenary Army
+bounds:1798,594,50,50
 PolicyIcons/Merchant Confederacy
-bounds:1886,1390,50,50
+bounds:1800,750,50,50
 PolicyIcons/Merchant Navy
-bounds:1414,234,50,50
+bounds:1800,854,50,50
+PolicyIcons/Mobilization
+bounds:1228,370,50,50
+PolicyIcons/Nationalism
+bounds:1788,74,50,50
+PolicyIcons/Naval Tradition
+bounds:1788,282,50,50
+PolicyIcons/Navigation School
+bounds:1254,578,50,50
 PolicyIcons/New Deal
-bounds:1414,286,50,50
+bounds:1800,906,50,50
+PolicyIcons/Party Leadership
+bounds:1254,682,50,50
 PolicyIcons/Patriotic War
-bounds:1990,1390,50,50
+bounds:745,7,50,50
 PolicyIcons/Socialism
-bounds:1990,1390,50,50
+bounds:745,7,50,50
 PolicyIcons/Philanthropy
-bounds:1064,1794,50,50
+bounds:1812,1738,50,50
 PolicyIcons/Planned Economy
-bounds:1626,1390,50,50
+bounds:1800,1166,50,50
+PolicyIcons/Religious Tolerance
+bounds:1794,334,50,50
 PolicyIcons/Scholasticism
-bounds:1366,1390,50,50
+bounds:1807,1426,50,50
+PolicyIcons/Silk Road
+bounds:1788,22,50,50
 PolicyIcons/Skyscrapers
-bounds:1414,130,50,50
+bounds:1168,988,50,50
 PolicyIcons/Socialist Realism
-bounds:1314,1390,50,50
+bounds:1807,1478,50,50
 PolicyIcons/Space Procurements
-bounds:808,436,200,200
+bounds:1592,376,200,200
 PolicyIcons/Spaceflight Pioneers
-bounds:1394,1188,200,200
+bounds:606,397,200,200
 PolicyIcons/Third Alternative
-bounds:1979,86,50,50
+bounds:1798,698,50,50
+PolicyIcons/Treasure Fleets
+bounds:1098,20,50,50
+PolicyIcons/United Front
+bounds:1798,542,50,50
+PolicyIcons/Universal Healthcare
+bounds:1150,20,50,50
+PolicyIcons/Free Healthcare
+bounds:1150,20,50,50
+PolicyIcons/Urbanization
+bounds:1228,110,50,50
+PolicyIcons/Volunteer Army
+bounds:1794,438,50,50
 PolicyIcons/Wagon Trains
-bounds:1834,1390,50,50
-PolicyIcons/Workers Faculties
-bounds:1826,1644,200,200
+bounds:1800,802,50,50
 PolicyIcons/Young Pioneers
-bounds:1470,1390,50,50
+bounds:1800,1322,50,50
+ResourceIcons/Cloves
+bounds:1850,569,100,100
+BuildingIcons/Cloves
+bounds:1850,569,100,100
 ResourceIcons/Cocoa
-bounds:1877,174,100,100
+bounds:506,880,100,100
+ResourceIcons/Coffee
+bounds:506,89,100,100
 ResourceIcons/Coral
 bounds:404,1646,400,400
 ResourceIcons/Factories
-bounds:404,640,200,200
+bounds:404,1242,200,200
 ResourceIcons/Glass
-bounds:419,842,400,400
+bounds:1208,1646,400,400
+ResourceIcons/Great Work of Writing
+bounds:996,52,100,100
 ResourceIcons/Hardwood
 bounds:2,1646,400,400
+ResourceIcons/Jade
+bounds:1126,72,100,100
 ResourceIcons/Lapis Lazuli
-bounds:1872,1848,100,96
+bounds:588,782,100,96
 ResourceIcons/Level 1 Ideology
-bounds:1220,1644,200,200
+bounds:808,1040,200,200
+ResourceIcons/Nutmeg
+bounds:1152,582,100,100
+BuildingIcons/Nutmeg
+bounds:1152,582,100,100
 ResourceIcons/Obsidian
-bounds:404,1244,400,400
+bounds:806,1646,400,400
+ResourceIcons/Perfume
+bounds:1490,416,100,100
 ResourceIcons/Rubber
 bounds:2,440,400,400
+ResourceIcons/Tobacco
+bounds:1280,134,100,100
 ResourceIcons/Trade Route (Count)
-bounds:1025,132,100,100
+bounds:1414,1240,100,100
 ResourceIcons/Trade Route
-bounds:1025,132,100,100
+bounds:1414,1240,100,100
+TechIcons/Drama and Poetry
+bounds:1402,628,100,100
 TechIcons/Nuclear Fusion
-bounds:1089,1289,101,95
+bounds:690,783,101,95
 TechIcons/Pharmaceuticals
-bounds:1877,276,100,100
+bounds:404,872,100,100
+TechIcons/Stealth
+bounds:1139,480,100,100
+TileSets/5Hex/Tiles/Coffee
+bounds:1516,1130,80,76
+TileSets/5Hex/Tiles/Coffee+Plantation
+bounds:486,672,80,76
+TileSets/5Hex/Tiles/Forest+Hardwood+Lumber mill
+bounds:1324,962,80,76
+TileSets/5Hex/Tiles/HF+Hardwood+Lumber mill
+bounds:1320,728,80,76
 TileSets/5Hex/Tiles/Harjis
 bounds:351,4,32,32
 TileSets/FantasyHex/Tiles/Harjis
 bounds:351,4,32,32
+TileSets/5Hex/Tiles/Kampong Ayer
+bounds:568,672,80,76
+TileSets/5Hex/Tiles/Maize
+bounds:1516,974,80,76
+TileSets/5Hex/Tiles/Maize+Farm
+bounds:404,672,80,76
+TileSets/5Hex/Tiles/Olives
+bounds:1320,806,80,76
+TileSets/5Hex/Tiles/Olives+Plantation
+bounds:732,672,80,76
+TileSets/5Hex/Tiles/Perfume
+bounds:1516,1208,80,76
 TileSets/5Hex/Tiles/Perfume+Plantation
-bounds:1127,50,80,80
+bounds:1961,1270,80,80
+TileSets/5Hex/Tiles/Sacred Grove
+bounds:1516,1364,80,78
+TileSets/5Hex/Tiles/TF+Hardwood+Lumber mill
+bounds:650,672,80,76
+TileSets/5Hex/Tiles/Tea
+bounds:1320,884,80,76
+TileSets/5Hex/Tiles/Tea+Plantation
+bounds:1516,1286,80,76
+TileSets/5Hex/Tiles/Tobacco
+bounds:1516,1052,80,76
+TileSets/5Hex/Tiles/Tobacco+Plantation
+bounds:1508,896,80,76
+TileSets/5Hex/Units/Airship
+bounds:557,2,32,40
+TileSets/FantasyHex/Units/Airship
+bounds:557,2,32,40
+TileSets/5Hex/Units/Apedemaks Bow
+bounds:1044,451,80,70
 TileSets/5Hex/Units/Black Arquebusier-1
-bounds:1719,4,80,70
+bounds:650,599,80,70
+TileSets/5Hex/Units/Buffalo Hunter-2
+bounds:1044,235,80,70
+TileSets/5Hex/Units/Dalai Lama-3
+bounds:1293,440,80,70
+TileSets/5Hex/Units/Fast Worker-2
+bounds:896,599,80,70
+TileSets/5Hex/Units/Ngangkari-2
+bounds:896,599,80,70
 TileSets/5Hex/Units/Hetairoi-3
-bounds:1555,4,80,70
+bounds:486,599,80,70
+TileSets/5Hex/Units/Konnitsa-1
+bounds:1306,584,80,70
+TileSets/5Hex/Units/Krivis
+bounds:1306,512,80,70
+TileSets/5Hex/Units/Krivis-2
+bounds:978,599,80,70
+TileSets/5Hex/Units/Longship-1
+bounds:1044,163,80,70
+TileSets/5Hex/Units/Mamluk-1
+bounds:814,599,80,70
+TileSets/5Hex/Units/Mpiambina-2
+bounds:1306,656,80,70
+TileSets/5Hex/Units/Nelayan-2
+bounds:732,599,80,70
 TileSets/5Hex/Units/Ngao Mbeba-1
-bounds:1473,4,80,70
+bounds:404,599,80,70
 TileSets/5Hex/Units/Pestininkas
-bounds:825,2,32,28
+bounds:608,750,32,28
 TileSets/FantasyHex/Units/Pestininkas
-bounds:825,2,32,28
+bounds:608,750,32,28
 TileSets/5Hex/Units/Ranchero-1
-bounds:1637,4,80,70
+bounds:568,599,80,70
 TileSets/5Hex/Units/Pioneer-1
-bounds:1637,4,80,70
+bounds:568,599,80,70
+TileSets/5Hex/Units/Saethwyr
+bounds:1044,379,80,70
+TileSets/5Hex/Units/Seaxman-1
+bounds:914,123,80,70
+TileSets/5Hex/Units/Sparapet-1
+bounds:1044,307,80,70
 TileSets/AbsoluteUnits/Units/Airship
-bounds:806,1268,77,116
+bounds:1966,1556,77,116
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle
-bounds:1974,1888,64,56
+bounds:536,982,64,56
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle-1
-bounds:1979,248,64,56
+bounds:932,982,64,56
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle-2
-bounds:1979,422,64,56
+bounds:800,982,64,56
 TileSets/AbsoluteUnits/Units/Archaeologist
-bounds:1974,1946,67,100
+bounds:1970,1794,67,100
+TileSets/AbsoluteUnits/Units/Bazooka
+bounds:1966,1454,77,100
+TileSets/AbsoluteUnits/Units/Caravan
+bounds:1060,602,77,77
+TileSets/AbsoluteUnits/Units/Expeditionary Force
+bounds:1060,523,77,77
 TileSets/AbsoluteUnits/Units/Galley
-bounds:1867,14,64,56
+bounds:668,982,64,56
 TileSets/AbsoluteUnits/Units/Galley-1
-bounds:1979,306,64,56
+bounds:797,3,64,56
 TileSets/AbsoluteUnits/Units/Galley-2
-bounds:1275,14,64,56
+bounds:1970,1674,64,56
 TileSets/AbsoluteUnits/Units/Galley-Barbarians
-bounds:1341,14,64,56
+bounds:404,982,64,56
+TileSets/AbsoluteUnits/Units/Great Admiral
+bounds:987,783,95,95
+TileSets/AbsoluteUnits/Units/Great Admiral-1
+bounds:890,783,95,95
+TileSets/AbsoluteUnits/Units/Great Admiral-2
+bounds:793,783,95,95
+TileSets/AbsoluteUnits/Units/Great Writer-Industrial era
+bounds:1484,231,95,81
+TileSets/AbsoluteUnits/Units/Great Musician-Industrial era
+bounds:1484,231,95,81
+TileSets/AbsoluteUnits/Units/Pittore Musician-Industrial era
+bounds:1484,231,95,81
+TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era
+bounds:1484,231,95,81
+TileSets/AbsoluteUnits/Units/Pittore-Industrial era
+bounds:1484,231,95,81
+TileSets/AbsoluteUnits/Units/Pittore Musician-Industrial era-2
+bounds:889,10,95,81
+TileSets/AbsoluteUnits/Units/Great Musician-Industrial era-2
+bounds:889,10,95,81
+TileSets/AbsoluteUnits/Units/Great Writer-Industrial era-2
+bounds:889,10,95,81
+TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era-2
+bounds:889,10,95,81
+TileSets/AbsoluteUnits/Units/Pittore-Industrial era-2
+bounds:889,10,95,81
 TileSets/FantasyHex/Tiles/Amber
-bounds:859,2,32,28
+bounds:642,750,32,28
 TileSets/FantasyHex/Tiles/Antiquity Site
-bounds:487,2,32,30
+bounds:1084,784,32,30
 TileSets/FantasyHex/Tiles/Archaeological Dig
-bounds:419,2,32,30
+bounds:1084,848,32,30
 TileSets/FantasyHex/Tiles/Caer
-bounds:1123,1255,32,32
+bounds:659,13,32,32
 TileSets/5Hex/Tiles/Caer
-bounds:1123,1255,32,32
+bounds:659,13,32,32
 TileSets/FantasyHex/Tiles/Camp
-bounds:1157,1255,32,32
+bounds:685,59,32,32
 TileSets/FantasyHex/Tiles/Chateau
-bounds:247,3,32,33
+bounds:283,3,32,33
 TileSets/FantasyHex/Tiles/City-Atomic era
-bounds:987,1246,32,36
+bounds:591,6,32,36
 TileSets/FantasyHex/Tiles/City-Information era
 bounds:179,2,32,34
 TileSets/FantasyHex/Tiles/Coconut
-bounds:1029,3,30,25
+bounds:814,694,30,25
 TileSets/FantasyHex/Tiles/Coffee
-bounds:453,2,32,30
+bounds:1084,816,32,30
 TileSets/FantasyHex/Tiles/Copper
-bounds:2000,1150,32,28
+bounds:1010,184,32,28
 TileSets/FantasyHex/Tiles/Coral
-bounds:1133,848,32,30
+bounds:676,750,32,30
 TileSets/FantasyHex/Tiles/Dry Dock
 bounds:2,3,39,33
 TileSets/FantasyHex/Tiles/Feitoria
-bounds:1089,1252,32,35
+bounds:625,7,32,35
 TileSets/FantasyHex/Tiles/Grassland+Forest+Antiquity Site
-bounds:1125,976,32,31
+bounds:744,750,32,31
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Brazilwood Camp
-bounds:1125,910,32,31
+bounds:753,60,32,31
 TileSets/FantasyHex/Tiles/Hardwood
-bounds:589,5,30,27
+bounds:814,721,30,27
+TileSets/FantasyHex/Tiles/Hill+Forest+Antiquity Site
+bounds:986,22,32,28
 TileSets/FantasyHex/Tiles/Jade
-bounds:2000,1210,32,28
+bounds:1948,381,32,28
+TileSets/FantasyHex/Tiles/Kampong Ayer
+bounds:1652,144,32,28
 TileSets/FantasyHex/Tiles/Kasbah
-bounds:555,3,32,29
+bounds:1010,485,32,29
 TileSets/FantasyHex/Tiles/Land Trade Route (Gold)
 bounds:43,2,32,34
 TileSets/FantasyHex/Tiles/Land Trade Route (Food)
 bounds:43,2,32,34
 TileSets/FantasyHex/Tiles/Land Trade Route (Production)
 bounds:43,2,32,34
+TileSets/FantasyHex/Tiles/Lapis Lazuli
+bounds:1686,42,32,28
 TileSets/FantasyHex/Tiles/Maize
-bounds:1167,848,32,30
+bounds:787,61,32,30
 TileSets/FantasyHex/Tiles/Motte and Bailey
 bounds:317,4,32,32
 TileSets/5Hex/Tiles/Motte and Bailey
 bounds:317,4,32,32
 TileSets/FantasyHex/Tiles/Obsidian
-bounds:927,2,32,28
+bounds:812,750,32,28
 TileSets/FantasyHex/Tiles/Olives
 bounds:111,2,32,34
 TileSets/FantasyHex/Tiles/Perfume
 bounds:145,2,32,34
 TileSets/FantasyHex/Tiles/Plains+Forest+Antiquity Site
-bounds:213,3,32,33
+bounds:249,3,32,33
 TileSets/FantasyHex/Tiles/Plains+Jungle+Brazilwood Camp
-bounds:1125,943,32,31
+bounds:778,750,32,31
 TileSets/FantasyHex/Tiles/Rubber
-bounds:995,3,32,25
+bounds:1754,45,32,25
 TileSets/FantasyHex/Tiles/Sacred Grove
-bounds:1989,904,32,28
+bounds:1010,364,32,28
 TileSets/FantasyHex/Tiles/Sea Trade Route (Food)
 bounds:77,2,32,34
 TileSets/FantasyHex/Tiles/Sea Trade Route (Gold)
 bounds:77,2,32,34
 TileSets/FantasyHex/Tiles/Sea Trade Route (Production)
 bounds:77,2,32,34
+TileSets/FantasyHex/Tiles/Tea
+bounds:1054,22,32,28
 TileSets/FantasyHex/Tiles/Tibetan Monastery
-bounds:281,4,34,32
+bounds:213,4,34,32
 TileSets/5Hex/Tiles/Tibetan Monastery
-bounds:281,4,34,32
+bounds:213,4,34,32
 TileSets/FantasyHex/Tiles/Tipi
-bounds:1125,1009,32,32
+bounds:719,59,32,32
 TileSets/5Hex/Tiles/Tipi
-bounds:1125,1009,32,32
+bounds:719,59,32,32
 TileSets/FantasyHex/Tiles/Tobacco
-bounds:2000,1090,32,28
+bounds:821,63,32,28
 TileSets/FantasyHex/Tiles/Tundra+Forest+Antiquity Site
 bounds:385,4,32,32
+TileSets/FantasyHex/Units/Anti-Tank Rifle
+bounds:1618,144,32,28
 TileSets/FantasyHex/Units/Apedemaks Bow
-bounds:893,2,32,28
+bounds:710,750,32,28
 TileSets/FantasyHex/Units/Ballista Elephant
-bounds:1999,56,32,28
+bounds:1254,2,32,28
 TileSets/FantasyHex/Units/Black Arquebusier
-bounds:806,1244,30,22
+bounds:1754,21,30,22
 TileSets/FantasyHex/Units/Black Legion
-bounds:1061,5,30,23
+bounds:2016,386,30,23
 TileSets/FantasyHex/Units/Buffalo Hunter
-bounds:2000,1330,32,28
+bounds:1010,304,32,28
 TileSets/FantasyHex/Units/Dalai Lama
-bounds:2000,1120,32,28
+bounds:996,154,32,28
 TileSets/FantasyHex/Units/Fast Worker
-bounds:757,2,32,28
+bounds:540,750,32,28
 TileSets/FantasyHex/Units/Ngangkari
-bounds:757,2,32,28
+bounds:540,750,32,28
 TileSets/FantasyHex/Units/Future Soldier
-bounds:621,2,32,28
+bounds:404,750,32,28
 TileSets/FantasyHex/Units/Hand-Axe
-bounds:1999,26,32,28
+bounds:1288,2,32,28
 TileSets/FantasyHex/Units/Heavy Chariot
-bounds:2000,1060,32,28
+bounds:855,63,32,28
 TileSets/FantasyHex/Units/Hetairoi
-bounds:521,3,32,29
+bounds:1010,516,32,29
 TileSets/FantasyHex/Units/Konnitsa
-bounds:2000,1240,32,28
+bounds:1010,214,32,28
 TileSets/FantasyHex/Units/Krivis
-bounds:655,2,32,28
+bounds:438,750,32,28
+TileSets/FantasyHex/Units/Laputtu
+bounds:1584,144,32,28
+TileSets/FantasyHex/Units/Phalanx
+bounds:1584,144,32,28
 TileSets/FantasyHex/Units/Longship
-bounds:2008,1858,32,28
+bounds:1010,394,32,28
+TileSets/FantasyHex/Units/Mamluk
+bounds:1322,2,32,28
 TileSets/FantasyHex/Units/Matato'a
-bounds:2000,1030,32,28
+bounds:914,93,32,28
+TileSets/FantasyHex/Units/Mpiambina
+bounds:1686,12,32,28
 TileSets/FantasyHex/Units/Nelayan
-bounds:723,2,32,28
+bounds:506,750,32,28
 TileSets/FantasyHex/Units/Ngao Mbeba
-bounds:961,2,32,28
+bounds:1010,424,32,28
 TileSets/FantasyHex/Units/Pioneer
-bounds:1974,1857,32,29
+bounds:1010,454,32,29
 TileSets/FantasyHex/Units/Ranchero
-bounds:1974,1857,32,29
+bounds:1010,454,32,29
 TileSets/FantasyHex/Units/Pittore
-bounds:689,2,32,28
+bounds:472,750,32,28
 TileSets/FantasyHex/Units/Pittore Writer
-bounds:689,2,32,28
+bounds:472,750,32,28
 TileSets/FantasyHex/Units/Pittore Musician
-bounds:2000,1180,32,28
+bounds:1982,381,32,28
 TileSets/FantasyHex/Units/Saethwyr
-bounds:2000,1360,32,28
+bounds:1010,334,32,28
 TileSets/FantasyHex/Units/Sarissophoroi
-bounds:2000,1300,32,28
+bounds:1010,274,32,28
+TileSets/FantasyHex/Units/Seaxman
+bounds:1720,42,32,28
 TileSets/FantasyHex/Units/Ski Infantry
-bounds:791,2,32,28
+bounds:574,750,32,28
+TileSets/FantasyHex/Units/Sparapet
+bounds:1020,22,32,28
 TileSets/FantasyHex/Units/Square Sail Ship
-bounds:2000,1270,32,28
+bounds:1010,244,32,28
 TileSets/FantasyHex/Units/Ulan
-bounds:2000,1000,32,28
+bounds:948,93,32,28
 TileSets/HexaRealm/Tiles/Chateau
-bounds:1979,190,64,56
+bounds:998,982,64,56
 TileSets/HexaRealm/Tiles/Kasbah
-bounds:1209,10,64,60
+bounds:1970,1732,64,60
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)
-bounds:1127,5,55,43
+bounds:461,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)
-bounds:1127,5,55,43
+bounds:461,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)
-bounds:1127,5,55,43
+bounds:461,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Modern era
-bounds:1076,846,55,43
+bounds:404,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)-Renaissance era
-bounds:885,1246,44,35
+bounds:419,7,44,35
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Modern era
-bounds:1414,435,55,43
+bounds:518,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Gold)-Renaissance era
-bounds:1021,1247,44,35
+bounds:511,7,44,35
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Modern era
-bounds:1414,390,55,43
+bounds:575,44,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Renaissance era
-bounds:931,1246,44,35
+bounds:465,7,44,35
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)
-bounds:1801,18,64,56
+bounds:602,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)
-bounds:1801,18,64,56
+bounds:602,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)
-bounds:1801,18,64,56
+bounds:602,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Modern era
-bounds:1407,14,64,56
+bounds:470,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Modern era
-bounds:1407,14,64,56
+bounds:470,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Modern era
-bounds:1407,14,64,56
+bounds:470,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Renaissance era
-bounds:1979,364,64,56
+bounds:866,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Renaissance era
-bounds:1979,364,64,56
+bounds:866,982,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Renaissance era
-bounds:1979,364,64,56
+bounds:866,982,64,56
 TileSets/HexaRealm/Units/Anti-Tank Rifle
-bounds:1933,14,64,56
+bounds:734,982,64,56
+UnitIcons/Airship
+bounds:1846,365,100,100
+UnitIcons/Akyat Cannon
+bounds:1280,338,100,100
 UnitIcons/Archaeologist
-bounds:1683,884,100,100
-UnitIcons/Buffalo Hunter
-bounds:1816,1442,200,200
-UnitIcons/Crusader
-bounds:1818,682,200,200
-UnitIcons/Dalai Lama
-bounds:1010,234,200,200
-UnitIcons/Fast Worker
-bounds:1596,986,200,200
+bounds:1852,977,100,100
+UnitIcons/Bazooka
+bounds:1126,276,100,100
 UnitIcons/Grenadine Cavalry
-bounds:404,236,200,200
+bounds:1846,163,200,200
 UnitIcons/Hand-Axe
-bounds:1581,884,100,100
+bounds:1414,1036,100,100
+UnitIcons/Impi
+bounds:1402,832,100,100
 UnitIcons/Khevsur
-bounds:1614,1442,200,200
-UnitIcons/Laputtu
-bounds:1473,278,200,200
+bounds:1118,786,200,200
+UnitIcons/Kris Swordsman
+bounds:1954,965,89,100
+UnitIcons/Marine
+bounds:404,89,100,100
 UnitIcons/Matato'a
-bounds:1008,1386,200,200
+bounds:1212,1444,200,200
+UnitIcons/Mehal Sefari
+bounds:1490,518,100,100
 UnitIcons/Merchant of Venice
-bounds:1877,72,100,100
+bounds:608,880,100,100
+UnitIcons/Mpiambina
+bounds:1840,61,100,100
 UnitIcons/Nelayan
-bounds:1266,1846,200,200
+bounds:606,1040,200,200
 UnitIcons/Ngangkari
-bounds:1159,880,100,100
+bounds:1859,1385,100,100
 NationIcons/Australia
-bounds:1159,880,100,100
+bounds:1859,1385,100,100
 UnitIcons/Pictish Warrior
-bounds:1394,986,200,200
+bounds:1596,578,200,200
 UnitIcons/Pictish Swordsman
-bounds:1394,986,200,200
-UnitIcons/Qianlong Cavalry
-bounds:1675,76,200,200
+bounds:1596,578,200,200
 UnitIcons/Shona Warrior
-bounds:821,840,200,200
-UnitIcons/Sparapet
-bounds:419,34,200,200
+bounds:1605,1386,200,200
+UnitIcons/Siege Tower
+bounds:1152,684,100,100
+UnitIcons/Ski Infantry
+bounds:710,93,100,100
+UnitPromotionIcons/Ski Infantry
+bounds:710,93,100,100
 UnitIcons/Square Sail Ship
-bounds:606,236,200,200
+bounds:1586,174,200,200
 UnitIcons/Tachanka
-bounds:1412,1442,200,200
-UnitIcons/Timurid Rider
-bounds:1473,76,200,200
-UnitIcons/Ulan
-bounds:1616,480,200,200
+bounds:1212,1040,200,200
+UnitIcons/Winged Hussar
+bounds:1280,32,100,100
 UnitIcons/Zaphorosian Cossack
-bounds:808,638,200,200
+bounds:808,1242,200,200
+UnitPromotionIcons/Altitude Training
+bounds:1228,162,50,50
+UnitPromotionIcons/Ambition
+bounds:1241,474,50,50
+UnitPromotionIcons/Ambush
+bounds:1228,214,50,50
+UnitPromotionIcons/Ambush Formation
+bounds:1228,266,50,50
 UnitPromotionIcons/Amphibious
-bounds:1414,182,50,50
+bounds:1116,988,50,50
+UnitPromotionIcons/Anti-naval
+bounds:1202,6,50,50
 UnitPromotionIcons/Buffalo Chest
-bounds:1938,1390,50,50
+bounds:693,7,50,50
 UnitPromotionIcons/Buffalo Horns
-bounds:1938,1390,50,50
+bounds:693,7,50,50
 UnitPromotionIcons/Buffalo Loins
-bounds:1938,1390,50,50
+bounds:693,7,50,50
+UnitPromotionIcons/Formation
+bounds:1794,386,50,50
+UnitPromotionIcons/Golden Age from Victories
+bounds:1798,646,50,50
+UnitPromotionIcons/Invulnerability
+bounds:1228,58,50,50
 UnitPromotionIcons/Mystic Blade
-bounds:1730,1390,50,50
+bounds:1800,1062,50,50
 UnitPromotionIcons/Restlessness
-bounds:1210,1390,50,50
+bounds:1812,1582,50,50
 UnitPromotionIcons/Sehatra
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Ambohimanambola
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Kelimazala
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Lambamena
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Manjakatsiroa
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Mosasa
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Mosava
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Ramahavaly
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Sampy
-bounds:1574,1390,50,50
+bounds:1800,1218,50,50
 UnitPromotionIcons/Spear Throw
-bounds:1262,1390,50,50
+bounds:1807,1530,50,50
 UnitPromotionIcons/Targeting I (air)
-bounds:1979,138,50,50
+bounds:1272,988,50,50
 
 game2.png
 size:2048,2048
 repeat:none
 BuildingIcons/Akkadian Library
-bounds:406,204,200,200
-BuildingIcons/Alcazaba
-bounds:1618,810,200,200
-BuildingIcons/Art Hall
-bounds:204,1416,200,200
-BuildingIcons/Artist Guild
-bounds:1820,2,200,200
-BuildingIcons/Ayyubid Burial Tomb
-bounds:1820,1012,200,200
-BuildingIcons/Bahai Kubo
-bounds:2,608,200,200
-BuildingIcons/Broadcast Tower Great Music Slot
-bounds:1012,204,200,200
-BuildingIcons/Broadway
-bounds:1618,204,200,200
-BuildingIcons/Castle Builders
-bounds:1416,2,200,200
-BuildingIcons/Coffee House
 bounds:810,2,200,200
-BuildingIcons/Cooperation
-bounds:1012,1012,200,200
-BuildingIcons/Darbas
-bounds:1416,1820,200,200
-BuildingIcons/Fine Art Specialist
+BuildingIcons/Amphitheater Great Writing Slot
+bounds:204,1416,200,200
+BuildingIcons/Art Hall
 bounds:406,810,200,200
-BuildingIcons/Georgian Mandir
-bounds:2,204,200,200
-BuildingIcons/Mandir
-bounds:2,204,200,200
-BuildingIcons/Globe Theatre Great Writing Slot 2
-bounds:2,2,200,200
-BuildingIcons/Globe Theatre Great Writing Slot 1
-bounds:2,2,200,200
-BuildingIcons/Grand Canal of Venice
-bounds:608,204,200,200
-BuildingIcons/Grand Cathedral of Vilnius
-bounds:1416,608,200,200
-BuildingIcons/Great Library Great Writing Slot 2
-bounds:204,1012,200,200
-BuildingIcons/Great Library Great Writing Slot 1
-bounds:204,1012,200,200
-BuildingIcons/Halkevleri
-bounds:1618,406,200,200
-BuildingIcons/Hippodrome
-bounds:1820,1820,200,200
-BuildingIcons/Huey Teocalli
-bounds:1214,1012,200,200
-BuildingIcons/Mead Hall
-bounds:1618,2,200,200
-BuildingIcons/Minaa
-bounds:1012,1820,200,200
-BuildingIcons/Museum Great Art Slot 2
+BuildingIcons/Bahai Kubo
 bounds:1618,1820,200,200
-BuildingIcons/Oxford University Great Writing Slot 2
-bounds:608,608,200,200
-BuildingIcons/Oxford University Great Writing Slot 1
-bounds:608,608,200,200
-BuildingIcons/Palace Great Writing Slot
-bounds:1416,1618,200,200
-BuildingIcons/Panama Canal
-bounds:406,1416,200,200
-BuildingIcons/Parthenon Great Writing Slot
-bounds:1214,204,200,200
-BuildingIcons/Pillar of Ashoka
-bounds:1416,204,200,200
-BuildingIcons/Reislaufer Post
-bounds:1012,2,200,200
-BuildingIcons/Royal Library
-bounds:1820,608,200,200
-BuildingIcons/Saint Peter's Basilica
-bounds:1214,608,200,200
-BuildingIcons/Spomenik
-bounds:810,1416,200,200
-BuildingIcons/Sydney Great Music Slot 2
-bounds:1416,1416,200,200
-BuildingIcons/Sydney Great Music Slot 1
-bounds:1416,1416,200,200
-BuildingIcons/Synagogue
-bounds:608,406,200,200
-BuildingIcons/Georgian Synagogue
-bounds:608,406,200,200
-BuildingIcons/Yeshiva
-bounds:608,406,200,200
-BuildingIcons/Trade Harbour
-bounds:204,608,200,200
-BuildingIcons/Trade Harbor
-bounds:204,608,200,200
-BuildingIcons/Tsikhe
-bounds:608,1012,200,200
-BuildingIcons/Uffizi Great Art Slot 3
-bounds:2,1416,200,200
-BuildingIcons/Uffizi Great Art Slot 1
-bounds:2,1416,200,200
-BuildingIcons/Uffizi Great Art Slot 2
-bounds:2,1416,200,200
-BuildingIcons/Vihara
-bounds:810,1012,200,200
-BuildingIcons/Dojo
-bounds:810,1012,200,200
-BuildingIcons/Georgian Vihara
-bounds:810,1012,200,200
-BuildingIcons/Vocal Chamber
-bounds:1618,608,200,200
-BuildingIcons/Writing Auditorium
-bounds:1214,1416,200,200
-ImprovementIcons/Caer
-bounds:2,406,200,200
-ImprovementIcons/Dry Dock
-bounds:1012,1618,200,200
-ImprovementIcons/Rock-hewn church
+BuildingIcons/Broadway Great Music Slot 1
 bounds:406,1214,200,200
-NationIcons/Argentina
-bounds:1214,406,200,200
-NationIcons/Armenia
-bounds:608,1618,200,200
-NationIcons/Canada
-bounds:1012,406,200,200
-NationIcons/Chile
-bounds:204,204,200,200
-NationIcons/Colombia
-bounds:1012,810,200,200
-NationIcons/Franks
-bounds:810,1618,200,200
-NationIcons/Ireland
-bounds:204,810,200,200
-NationIcons/Kilwa
-bounds:608,1214,200,200
-NationIcons/Lithuania
-bounds:1618,1416,200,200
-UnitIcons/Krivis
-bounds:1618,1416,200,200
-NationIcons/Maurya
-bounds:608,2,200,200
-NationIcons/Mysore
-bounds:608,1416,200,200
-NationIcons/Norway
-bounds:2,1012,200,200
-NationIcons/Philippines
-bounds:810,1820,200,200
-NationIcons/Prussia
-bounds:2,1214,200,200
-NationIcons/Sumeria
-bounds:1416,810,200,200
-NationIcons/Turkey
-bounds:406,1820,200,200
-NationIcons/Ukraine
-bounds:1012,608,200,200
-NationIcons/Vietnam
-bounds:1214,2,200,200
-PolicyIcons/Arsenal of Democracy
-bounds:204,2,200,200
-PolicyIcons/Economic Union
-bounds:1618,1618,200,200
-PolicyIcons/Exploration
-bounds:204,406,200,200
-PolicyIcons/Free Mind
-bounds:810,810,200,200
-PolicyIcons/Gunboat Diplomacy
-bounds:1820,1214,200,200
-PolicyIcons/Ideology
-bounds:2,1820,200,200
-PolicyIcons/Industrial Espionage
-bounds:406,608,200,200
-PolicyIcons/Iron Fist
-bounds:608,810,200,200
-PolicyIcons/Lightning Warfare
-bounds:406,1618,200,200
-PolicyIcons/People's Army
-bounds:406,2,200,200
-PolicyIcons/Resettlements
-bounds:810,406,200,200
-ResourceIcons/Level 2 Ideology
-bounds:1416,406,200,200
-ResourceIcons/Policies
-bounds:1820,1618,200,200
-UnitIcons/Atomic Bomb
-bounds:204,1618,200,200
-UnitIcons/Baghlah
-bounds:406,1012,200,200
-UnitIcons/Ballista Elephant
-bounds:810,608,200,200
-UnitIcons/Cardoen
-bounds:1820,1416,200,200
-UnitIcons/Gadrauht
-bounds:1820,810,200,200
-UnitIcons/Gerilya
-bounds:1820,204,200,200
-UnitIcons/Hetairoi
-bounds:406,406,200,200
-UnitPromotionIcons/Hetairoi
-bounds:406,406,200,200
-UnitIcons/Koa
-bounds:1416,1012,200,200
-UnitIcons/Kuva-yi Milliye
-bounds:1214,810,200,200
-UnitIcons/Llanero
-bounds:1214,1214,200,200
-UnitIcons/M-84
-bounds:1214,1618,200,200
-UnitIcons/Maccabee
-bounds:608,1820,200,200
-UnitIcons/Noble Swordsman
-bounds:810,1214,200,200
-UnitIcons/Pestininkas
+BuildingIcons/Broadway Great Music Slot 2
+bounds:406,1214,200,200
+BuildingIcons/Broadway Great Music Slot 3
+bounds:406,1214,200,200
+BuildingIcons/Cooperation
 bounds:810,204,200,200
-UnitIcons/Phalanx
-bounds:1012,1214,200,200
-UnitIcons/Pioneer
-bounds:204,1214,200,200
-UnitIcons/Pittore
-bounds:1416,1214,200,200
-UnitIcons/Ranchero
-bounds:1012,1416,200,200
-UnitIcons/Reislaufer
-bounds:1820,406,200,200
-UnitIcons/Rocket Corps
-bounds:204,1820,200,200
-UnitIcons/Saethwyr
-bounds:1214,1820,200,200
-UnitIcons/Sarissophoroi
-bounds:1618,1012,200,200
-UnitIcons/Sissi
+BuildingIcons/Darbas
+bounds:810,608,200,200
+BuildingIcons/Fine Art Specialist
+bounds:1618,1618,200,200
+BuildingIcons/Georgian Gurdwara
 bounds:2,1618,200,200
-UnitIcons/Vanator
-bounds:2,810,200,200
-UnitPromotionIcons/Fast Swimmer
+BuildingIcons/Gurdwara
+bounds:2,1618,200,200
+BuildingIcons/Georgian Mandir
+bounds:1012,810,200,200
+BuildingIcons/Mandir
+bounds:1012,810,200,200
+BuildingIcons/Globe Theatre Great Writing Slot 2
+bounds:1214,810,200,200
+BuildingIcons/Globe Theatre Great Writing Slot 1
+bounds:1214,810,200,200
+BuildingIcons/Governor's Mansion
+bounds:204,1618,200,200
+BuildingIcons/Grand Canal of Venice
+bounds:1618,608,200,200
+BuildingIcons/Great Library Great Writing Slot 2
+bounds:608,810,200,200
+BuildingIcons/Great Library Great Writing Slot 1
+bounds:608,810,200,200
+BuildingIcons/Hippodrome
+bounds:1618,1012,200,200
+BuildingIcons/Huey Teocalli
+bounds:1618,810,200,200
+BuildingIcons/Minaa
+bounds:1416,1618,200,200
+BuildingIcons/Museum Great Art Slot 2
+bounds:1012,608,200,200
+BuildingIcons/Oxford University Great Writing Slot 2
+bounds:1820,1416,200,200
+BuildingIcons/Oxford University Great Writing Slot 1
+bounds:1820,1416,200,200
+BuildingIcons/Palace Great Writing Slot
+bounds:810,406,200,200
+BuildingIcons/Panama Canal
+bounds:1416,1820,200,200
+BuildingIcons/Saint Peter's Basilica
+bounds:1820,204,200,200
+BuildingIcons/Spomenik
+bounds:608,608,200,200
+BuildingIcons/Sydney Great Music Slot 2
+bounds:1214,608,200,200
+BuildingIcons/Sydney Great Music Slot 1
+bounds:1214,608,200,200
+BuildingIcons/Synagogue
+bounds:1012,204,200,200
+BuildingIcons/Georgian Synagogue
+bounds:1012,204,200,200
+BuildingIcons/Yeshiva
+bounds:1012,204,200,200
+BuildingIcons/Trade Harbour
+bounds:1416,1416,200,200
+BuildingIcons/Trade Harbor
+bounds:1416,1416,200,200
+BuildingIcons/Tsikhe
+bounds:1820,1820,200,200
+BuildingIcons/Uffizi Great Art Slot 3
+bounds:1012,1618,200,200
+BuildingIcons/Uffizi Great Art Slot 1
+bounds:1012,1618,200,200
+BuildingIcons/Uffizi Great Art Slot 2
+bounds:1012,1618,200,200
+BuildingIcons/Vihara
+bounds:1820,1618,200,200
+BuildingIcons/Dojo
+bounds:1820,1618,200,200
+BuildingIcons/Georgian Vihara
+bounds:1820,1618,200,200
+BuildingIcons/Writing Auditorium
+bounds:608,204,200,200
+ImprovementIcons/Caer
+bounds:1214,1214,200,200
+ImprovementIcons/Dry Dock
+bounds:810,810,200,200
+ImprovementIcons/Rock-hewn church
+bounds:810,1012,200,200
+NationIcons/Armenia
+bounds:2,204,200,200
+NationIcons/Burma
+bounds:1012,1820,200,200
+NationIcons/Canada
+bounds:1618,2,200,200
+NationIcons/Chile
+bounds:1416,1012,200,200
+NationIcons/Colombia
+bounds:1416,608,200,200
+NationIcons/Finland
+bounds:2,1214,200,200
+NationIcons/Franks
+bounds:1214,1416,200,200
+NationIcons/Golden Horde
+bounds:406,1416,200,200
+NationIcons/Goths
+bounds:406,1820,200,200
+UnitPromotionIcons/Drauhtinon
+bounds:406,1820,200,200
+NationIcons/Hungary
+bounds:406,1618,200,200
+NationIcons/Ireland
+bounds:2,2,200,200
+NationIcons/Kilwa
+bounds:406,406,200,200
+NationIcons/Lithuania
+bounds:1012,2,200,200
+UnitIcons/Krivis
+bounds:1012,2,200,200
+NationIcons/Maurya
+bounds:1618,204,200,200
+NationIcons/Mysore
+bounds:1012,1214,200,200
+NationIcons/Norway
+bounds:1012,1416,200,200
+NationIcons/Philippines
+bounds:204,406,200,200
+NationIcons/Prussia
+bounds:204,608,200,200
+NationIcons/Romania
+bounds:810,1820,200,200
+NationIcons/Sumeria
+bounds:1820,2,200,200
+NationIcons/Turkey
+bounds:2,406,200,200
+NationIcons/Ukraine
+bounds:1214,2,200,200
+NationIcons/Wales
+bounds:204,1012,200,200
+PolicyIcons/Arsenal of Democracy
+bounds:1820,1214,200,200
+PolicyIcons/Covert Action
+bounds:608,1416,200,200
+PolicyIcons/Double Agents
+bounds:2,1820,200,200
+PolicyIcons/Economic Union
+bounds:1416,810,200,200
+PolicyIcons/Exploration
+bounds:1214,1012,200,200
+PolicyIcons/Free Mind
+bounds:608,2,200,200
+PolicyIcons/Ideology
+bounds:406,1012,200,200
+PolicyIcons/Industrial Espionage
+bounds:1416,1214,200,200
+PolicyIcons/Iron Fist
+bounds:1618,1416,200,200
+PolicyIcons/Lightning Warfare
+bounds:608,1012,200,200
+PolicyIcons/People's Army
+bounds:1416,406,200,200
+PolicyIcons/Resettlements
+bounds:1820,810,200,200
+PolicyIcons/Workers Faculties
+bounds:2,1012,200,200
+ResourceIcons/Policies
+bounds:1214,204,200,200
+UnitIcons/Atomic Bomb
+bounds:1214,1820,200,200
+UnitIcons/Baghlah
+bounds:204,204,200,200
+UnitIcons/Ballista Elephant
+bounds:1214,406,200,200
+UnitIcons/Buffalo Hunter
+bounds:608,1820,200,200
+UnitIcons/Cardoen
+bounds:1416,2,200,200
+UnitIcons/Crusader
+bounds:810,1618,200,200
+UnitIcons/Dalai Lama
+bounds:2,1416,200,200
+UnitIcons/Fast Worker
+bounds:204,1214,200,200
+UnitIcons/Hetairoi
 bounds:1618,1214,200,200
+UnitPromotionIcons/Hetairoi
+bounds:1618,1214,200,200
+UnitIcons/Koa
+bounds:1618,406,200,200
+UnitIcons/Kuva-yi Milliye
+bounds:1416,204,200,200
+UnitIcons/Laputtu
+bounds:608,1618,200,200
+UnitIcons/Llanero
+bounds:1012,406,200,200
+UnitIcons/M-84
+bounds:608,406,200,200
+UnitIcons/Maccabee
+bounds:810,1214,200,200
+UnitIcons/Noble Swordsman
+bounds:204,2,200,200
+UnitIcons/Pestininkas
+bounds:1820,406,200,200
+UnitIcons/Phalanx
+bounds:406,2,200,200
+UnitIcons/Pioneer
+bounds:1214,1618,200,200
+UnitIcons/Pittore
+bounds:1820,1012,200,200
+UnitIcons/Qianlong Cavalry
+bounds:204,810,200,200
+UnitIcons/Ranchero
+bounds:406,204,200,200
+UnitIcons/Rocket Corps
+bounds:810,1416,200,200
+UnitIcons/Saethwyr
+bounds:1012,1012,200,200
+UnitIcons/Sissi
+bounds:608,1214,200,200
+UnitIcons/Sparapet
+bounds:204,1820,200,200
+UnitIcons/Timurid Rider
+bounds:2,608,200,200
+UnitIcons/Ulan
+bounds:2,810,200,200
+UnitIcons/Vanator
+bounds:406,608,200,200
+UnitPromotionIcons/Fast Swimmer
+bounds:1820,608,200,200
 
 game3.png
 size:2048,2048
 repeat:none
+BuildingIcons/Alcazaba
+bounds:2,618,200,200
 BuildingIcons/Arsenal
-bounds:1400,934,100,100
+bounds:1216,410,100,100
+BuildingIcons/Artist Guild
+bounds:204,1022,200,200
+BuildingIcons/Ayyubid Burial Tomb
+bounds:2,416,200,200
 BuildingIcons/BMPC Plant
-bounds:608,1846,200,200
+bounds:1214,1628,200,200
 BuildingIcons/Basilica
-bounds:1903,316,100,100
-BuildingIcons/Blast Furnace
-bounds:902,632,100,100
+bounds:1930,410,100,100
 BuildingIcons/Borobudur
-bounds:2,28,200,200
+bounds:810,214,200,200
 BuildingIcons/Brewery
-bounds:1691,826,100,100
-BuildingIcons/Candi
-bounds:508,330,100,100
+bounds:1420,716,100,100
+BuildingIcons/Broadcast Tower Great Music Slot
+bounds:2,1224,200,200
+BuildingIcons/Broadway
+bounds:1820,1830,200,200
 BuildingIcons/Caravansary
-bounds:1203,633,100,100
+bounds:1114,920,100,100
+BuildingIcons/Castle Builders
+bounds:1618,1830,200,200
 BuildingIcons/Censer Maker
-bounds:1702,1234,100,100
+bounds:1318,920,100,100
 BuildingIcons/Center of Progress
-bounds:406,836,200,200
+bounds:608,820,200,200
+BuildingIcons/Coffee House
+bounds:2,1426,200,200
 BuildingIcons/Convict Penitentiary
-bounds:1699,316,100,100
+bounds:1726,410,100,100
 BuildingIcons/Coral Port
-bounds:1796,1132,100,100
+bounds:1930,818,100,100
 BuildingIcons/Cothon
-bounds:1101,528,100,100
+bounds:1114,716,100,100
 BuildingIcons/Ducal Stable
-bounds:1713,622,100,100
-BuildingIcons/East India Company
-bounds:1822,1646,90,99
+bounds:1318,410,100,100
 BuildingIcons/Fabrik
-bounds:2,1846,200,200
+bounds:204,820,200,200
 BuildingIcons/Feitoria
-bounds:810,1038,200,200
+bounds:1820,1224,200,200
 BuildingIcons/Georgian Cathedral
-bounds:1009,101,100,100
+bounds:1930,920,100,100
 BuildingIcons/Georgian Mosque
-bounds:1611,520,100,100
+bounds:1318,308,100,100
 BuildingIcons/Georgian Pagoda
-bounds:907,39,100,100
-BuildingIcons/Grocer
-bounds:1012,936,100,100
+bounds:1114,818,100,100
+BuildingIcons/Grand Cathedral of Vilnius
+bounds:2,820,200,200
 BuildingIcons/Hacienda
-bounds:903,243,100,100
+bounds:1522,920,100,100
+BuildingIcons/Halkevleri
+bounds:1214,1830,200,200
 BuildingIcons/Heroic Epic Great Writing Slot
-bounds:2,634,200,200
+bounds:608,1426,200,200
 BuildingIcons/Hotel
-bounds:1111,120,100,100
-BuildingIcons/Hydro Plant
-bounds:608,532,100,100
+bounds:1114,104,100,100
 BuildingIcons/Khambar
-bounds:1005,305,100,100
+bounds:1726,920,100,100
 BuildingIcons/King Soloman's Temple
-bounds:1416,1644,200,200
-BuildingIcons/Kyawwat
-bounds:1306,1036,100,100
-BuildingIcons/Madrasah
-bounds:1416,1340,100,100
+bounds:810,618,200,200
 BuildingIcons/Mala'e
-bounds:1315,21,100,100
+bounds:1522,104,100,100
 BuildingIcons/Malaa'
-bounds:810,1442,200,200
+bounds:1416,1426,200,200
+BuildingIcons/Mead Hall
+bounds:204,1426,200,200
 BuildingIcons/Museum Great Art Slot 1
-bounds:1012,1846,200,200
+bounds:406,12,200,200
 BuildingIcons/National Church
-bounds:1214,1442,200,200
+bounds:810,820,200,200
 BuildingIcons/National Epic Great Writing Slot
-bounds:810,1846,200,200
-BuildingIcons/National Visitor's Center
-bounds:1720,1744,100,100
+bounds:406,1224,200,200
 BuildingIcons/Ocupada Estable
-bounds:1098,426,100,100
+bounds:1114,410,100,100
 BuildingIcons/Odeon
-bounds:1405,832,100,100
+bounds:1216,308,100,100
 BuildingIcons/Oil Refinery
-bounds:1917,520,100,100
+bounds:1828,614,100,100
 BuildingIcons/Opera House Great Music Slot
-bounds:810,1644,200,200
+bounds:406,214,200,200
 BuildingIcons/Orszaggyules
-bounds:1815,418,100,100
+bounds:1420,206,100,100
 BuildingIcons/Outremer
-bounds:589,3,100,100
+bounds:1012,920,100,100
 BuildingIcons/Rova
-bounds:589,3,100,100
+bounds:1012,920,100,100
 BuildingIcons/Painted Monastery
-bounds:1507,833,100,100
-BuildingIcons/Parthenon
-bounds:1214,1138,100,100
+bounds:1216,104,100,100
+BuildingIcons/Parthenon Great Writing Slot
+bounds:2,12,200,200
 BuildingIcons/Pepper
-bounds:1407,434,100,100
+bounds:1930,614,100,100
 ResourceIcons/Pepper
-bounds:1407,434,100,100
+bounds:1930,614,100,100
+BuildingIcons/Pillar of Ashoka
+bounds:1012,1830,200,200
 BuildingIcons/Plaza de Toros
-bounds:1648,724,100,100
+bounds:1930,716,100,100
 BuildingIcons/Prora
-bounds:1696,928,100,100
+bounds:1216,2,100,100
 BuildingIcons/Red Fort
-bounds:1200,426,100,100
+bounds:1420,2,100,100
+BuildingIcons/Reislaufer Post
+bounds:2,214,200,200
+BuildingIcons/Royal Library
+bounds:1416,1830,200,200
 BuildingIcons/Royal Library Great Writing Slot
-bounds:2,1442,200,200
-BuildingIcons/Sauna
-bounds:1709,1540,100,100
+bounds:204,214,200,200
 BuildingIcons/Serai
-bounds:204,1846,200,200
+bounds:204,416,200,200
 BuildingIcons/Silversmith
-bounds:894,428,100,100
+bounds:1012,410,100,100
 BuildingIcons/Slave Market
-bounds:1012,1240,200,200
+bounds:810,1022,200,200
 BuildingIcons/Staatsmuseum
-bounds:1111,18,100,100
+bounds:1318,818,100,100
 BuildingIcons/Stade
-bounds:1793,826,100,100
+bounds:1522,716,100,100
 BuildingIcons/Temple of Artemis
-bounds:1302,429,100,100
-BuildingIcons/Textile Mill
-bounds:1096,732,100,100
-BuildingIcons/Tim Hortons
-bounds:1922,1946,100,100
+bounds:1522,512,100,100
 BuildingIcons/Uffizi
-bounds:1213,222,100,100
+bounds:1726,512,100,100
 BuildingIcons/Ulugh Beg's Observatory
-bounds:608,836,200,200
-BuildingIcons/Vo Khi
-bounds:1316,1138,100,100
+bounds:1618,1224,200,200
+BuildingIcons/Vocal Chamber
+bounds:406,1830,200,200
 BuildingIcons/Writer Guild
-bounds:204,230,200,200
+bounds:810,12,200,200
 BuildingIcons/Ziggurat
-bounds:406,432,200,200
-BuildingIcons/Zoo
-bounds:406,330,100,100
+bounds:1012,1022,200,200
 ImprovementIcons/Archaeological Dig
-bounds:1917,418,100,100
+bounds:1420,104,100,100
 ImprovementIcons/Chateau
-bounds:1713,520,100,100
+bounds:1318,206,100,100
 ImprovementIcons/Kampong Ayer
-bounds:1509,629,100,100
+bounds:1726,716,100,100
 ImprovementIcons/Kasbah
-bounds:1111,222,100,100
-ImprovementIcons/Land Trade Route (Production)
-bounds:499,126,100,100
-BuildingIcons/Caravan
-bounds:499,126,100,100
-ImprovementIcons/Land Trade Route (Food)
-bounds:499,126,100,100
-ImprovementIcons/Land Trade Route (Gold)
-bounds:499,126,100,100
+bounds:1114,206,100,100
 ImprovementIcons/Motte and Bailey
-bounds:1509,527,100,100
+bounds:1828,716,100,100
 ImprovementIcons/Sacred Grove
-bounds:608,1240,200,200
-ImprovementIcons/Sea Trade Route (Gold)
-bounds:601,105,100,100
-BuildingIcons/Cargo Ship
-bounds:601,105,100,100
-ImprovementIcons/Sea Trade Route (Food)
-bounds:601,105,100,100
-ImprovementIcons/Sea Trade Route (Production)
-bounds:601,105,100,100
-ImprovementIcons/Tipi
-bounds:1822,1747,92,100
+bounds:1214,1426,200,200
 NationIcons/Akkad
-bounds:204,1644,200,200
-NationIcons/Aksum
-bounds:1604,938,90,90
+bounds:204,12,200,200
+NationIcons/Argentina
+bounds:2,1022,200,200
 NationIcons/Assyria
-bounds:1107,324,100,100
-NationIcons/Ayyubids
-bounds:1362,740,90,90
+bounds:1114,308,100,100
 NationIcons/Aztecs
-bounds:1900,928,100,100
-NationIcons/Belgium
-bounds:1214,1046,90,90
+bounds:1624,614,100,100
 NationIcons/Brazil
-bounds:1607,1439,100,99
-NationIcons/Brunei
-bounds:802,400,90,90
+bounds:1624,309,100,99
 NationIcons/Bulgaria
-bounds:406,1846,200,200
-NationIcons/Byzantium
-bounds:204,26,100,100
-NationIcons/Carthage
-bounds:204,128,100,100
+bounds:406,1628,200,200
 NationIcons/Celts
-bounds:1520,1037,100,100
-NationIcons/Ethiopia
-bounds:1298,934,100,100
+bounds:1624,818,100,100
 NationIcons/Georgia
-bounds:810,836,200,200
+bounds:1416,1022,200,200
 NationIcons/Hittites
-bounds:1407,536,100,100
-NationIcons/Indonesia
-bounds:700,430,100,100
+bounds:1216,512,100,100
 NationIcons/Israel
-bounds:1416,1846,200,200
+bounds:810,1224,200,200
 NationIcons/Italy
-bounds:2,1240,200,200
+bounds:608,1628,200,200
 NationIcons/Jerusalem
-bounds:204,836,200,200
-NationIcons/Kongo
-bounds:1418,1146,100,100
-UnitIcons/Ngao Mbeba
-bounds:1418,1146,100,100
+bounds:810,1426,200,200
 NationIcons/Macedonia
-bounds:801,226,100,100
-NationIcons/Madagascar
-bounds:1602,1143,90,90
+bounds:1012,206,100,100
 NationIcons/Manchuria
-bounds:1012,1038,200,200
-NationIcons/Mexico
-bounds:1416,1248,90,90
+bounds:1618,1022,200,200
 NationIcons/Morocco
-bounds:1209,324,100,100
+bounds:1624,512,100,100
 NationIcons/Normandy
-bounds:608,1442,200,200
-NationIcons/Nubia
-bounds:810,642,90,90
-NationIcons/Oman
-bounds:1416,1442,189,200
+bounds:406,416,200,200
 NationIcons/Papal State
-bounds:608,634,200,200
+bounds:1214,1022,200,200
 NationIcons/Phoenicia
-bounds:2,432,200,200
+bounds:608,1224,200,200
 NationIcons/Poland
-bounds:1009,203,100,100
+bounds:1828,920,100,100
 NationIcons/Portugal
-bounds:1509,425,100,100
-NationIcons/Shoshone
-bounds:1104,834,100,100
-NationIcons/Sioux
-bounds:1454,740,90,90
-NationIcons/Switzerland
-bounds:608,440,90,90
-NationIcons/The Maya
-bounds:1917,1844,100,100
+bounds:1420,512,100,100
 NationIcons/The Moors
-bounds:1214,1846,200,200
-NationIcons/Tibet
-bounds:1012,844,90,90
+bounds:1820,1426,200,200
 NationIcons/Timurids
-bounds:406,1644,200,200
-NationIcons/Venice
-bounds:1618,1642,100,100
-NationIcons/Yugoslavia
-bounds:406,236,92,92
+bounds:1012,1628,200,200
+NationIcons/Vietnam
+bounds:810,1830,200,200
 NationIcons/Zulu
-bounds:1917,622,100,100
-PolicyIcons/Clausewitz's Legacy
-bounds:1975,1484,50,50
+bounds:1726,614,100,100
 PolicyIcons/Creative Expression
-bounds:204,432,200,200
+bounds:1214,1224,200,200
 PolicyIcons/Cult of Personality
-bounds:1012,1644,200,200
-PolicyIcons/Cultural Diplomacy
-bounds:1975,1380,50,50
+bounds:1618,1426,200,200
 PolicyIcons/Cultural Revolution
-bounds:2,1038,200,200
-PolicyIcons/Fine Arts
-bounds:1991,88,50,50
-PolicyIcons/Five-Year Plan
-bounds:1980,1246,50,50
+bounds:1416,1628,200,200
 PolicyIcons/Futurism
-bounds:204,1240,200,200
-PolicyIcons/Hero of the People
-bounds:1991,192,50,50
-PolicyIcons/Media Culture
-bounds:1980,1194,50,50
-PolicyIcons/Mercenary Army
-bounds:1986,1588,50,50
-PolicyIcons/Mobilization
-bounds:1968,1328,50,50
-PolicyIcons/Navigation School
-bounds:1991,140,50,50
-PolicyIcons/Party Leadership
-bounds:1975,1432,50,50
+bounds:1618,1628,200,200
+PolicyIcons/Gunboat Diplomacy
+bounds:2,1628,200,200
 PolicyIcons/Treaty Organization
-bounds:406,634,200,200
-PolicyIcons/United Front
-bounds:1986,1536,50,50
-PolicyIcons/Volunteer Army
-bounds:1980,1142,50,50
+bounds:1416,1224,200,200
 ResourceIcons/Amber
-bounds:1502,935,100,100
+bounds:1216,206,100,100
 ResourceIcons/Antiquity Site
-bounds:1622,1030,100,100
+bounds:1726,818,100,100
 ResourceIcons/Bison
-bounds:1694,1132,100,100
-ResourceIcons/Cloves
-bounds:306,26,100,100
-BuildingIcons/Cloves
-bounds:306,26,100,100
+bounds:1420,818,100,100
 ResourceIcons/Coconut
-bounds:204,634,200,200
-ResourceIcons/Coffee
-bounds:1820,1946,100,100
+bounds:608,1022,200,200
 ResourceIcons/Great Work of Art
-bounds:805,124,100,100
+bounds:1012,104,100,100
 ResourceIcons/Great Work of Music
-bounds:1012,1442,200,200
-ResourceIcons/Great Work of Writing
-bounds:1702,1336,100,100
-ResourceIcons/Jade
-bounds:1600,1337,100,100
+bounds:608,214,200,200
+ResourceIcons/Level 2 Ideology
+bounds:204,1830,200,200
 ResourceIcons/Maize
-bounds:1798,928,100,100
-ResourceIcons/Nutmeg
-bounds:912,734,100,100
-BuildingIcons/Nutmeg
-bounds:912,734,100,100
+bounds:1318,716,100,100
 ResourceIcons/Olives
-bounds:1852,724,100,100
-ResourceIcons/Perfume
-bounds:500,228,100,100
+bounds:1318,104,100,100
 ResourceIcons/Tea
-bounds:1203,531,100,100
-ResourceIcons/Tobacco
-bounds:487,24,100,100
+bounds:1114,614,100,100
 TechIcons/Computers
-bounds:1815,520,100,100
-TechIcons/Drama and Poetry
-bounds:306,128,100,100
+bounds:1420,614,100,100
 TechIcons/Nuclear Fission
-bounds:1213,18,100,100
+bounds:1930,512,100,100
 TechIcons/Radar
-bounds:703,124,100,100
+bounds:1012,716,100,100
 TechIcons/Rocketry
-bounds:1546,731,100,100
-TechIcons/Stealth
-bounds:1114,936,100,100
+bounds:1624,716,100,100
 TileSets/5Hex/Tiles/Amber
-bounds:1909,28,80,70
-TileSets/5Hex/Tiles/Coffee
-bounds:1014,766,80,76
-TileSets/5Hex/Tiles/Coffee+Plantation
-bounds:1609,860,80,76
+bounds:1624,21,80,70
 TileSets/5Hex/Tiles/Coral
-bounds:1745,172,80,70
-TileSets/5Hex/Tiles/Forest+Hardwood+Lumber mill
-bounds:1417,84,80,76
-TileSets/5Hex/Tiles/HF+Hardwood+Lumber mill
-bounds:1581,88,80,76
-TileSets/5Hex/Tiles/Kampong Ayer
-bounds:1413,356,80,76
-TileSets/5Hex/Tiles/Maize
-bounds:1198,735,80,76
-TileSets/5Hex/Tiles/Maize+Farm
-bounds:1280,735,80,76
-TileSets/5Hex/Tiles/Olives
-bounds:1581,166,80,76
-TileSets/5Hex/Tiles/Olives+Plantation
-bounds:1514,245,80,76
-TileSets/5Hex/Tiles/Perfume
-bounds:812,564,80,76
-TileSets/5Hex/Tiles/Sacred Grove
-bounds:1518,1362,80,78
-TileSets/5Hex/Tiles/TF+Hardwood+Lumber mill
-bounds:1417,162,80,76
-TileSets/5Hex/Tiles/Tea
-bounds:1499,162,80,76
-TileSets/5Hex/Tiles/Tea+Plantation
-bounds:610,362,80,76
-TileSets/5Hex/Tiles/Tobacco
-bounds:1216,968,80,76
-TileSets/5Hex/Tiles/Tobacco+Plantation
-bounds:1499,84,80,76
-TileSets/5Hex/Units/Apedemaks Bow
-bounds:1520,1139,80,70
+bounds:1823,183,80,70
 TileSets/5Hex/Units/Apedemaks Bow-1
-bounds:1827,100,80,70
+bounds:1706,100,80,70
 TileSets/5Hex/Units/Ballista Elephant-1
-bounds:1909,172,80,70
-TileSets/5Hex/Units/Black Arquebusier-3
-bounds:1893,1424,80,70
-TileSets/5Hex/Units/Buffalo Hunter-2
-bounds:1924,244,80,70
-TileSets/5Hex/Units/Dalai Lama
-bounds:1928,1064,80,70
-TileSets/5Hex/Units/Dalai Lama-3
-bounds:1842,244,80,70
-TileSets/5Hex/Units/Fast Worker
-bounds:1886,1280,80,70
-TileSets/5Hex/Units/Ngangkari
-bounds:1886,1280,80,70
-TileSets/5Hex/Units/Fast Worker-2
-bounds:1014,694,80,70
-TileSets/5Hex/Units/Ngangkari-2
-bounds:1014,694,80,70
+bounds:1624,93,80,70
 TileSets/5Hex/Units/Hetairoi
-bounds:1811,1430,80,70
+bounds:1870,39,80,70
 TileSets/5Hex/Units/Konnitsa
-bounds:1581,16,80,70
-TileSets/5Hex/Units/Konnitsa-1
-bounds:1518,1290,80,70
-TileSets/5Hex/Units/Konnitsa-3
-bounds:1898,1136,80,70
-TileSets/5Hex/Units/Krivis
-bounds:1596,244,80,70
-TileSets/5Hex/Units/Krivis-2
-bounds:1216,896,80,70
+bounds:1823,255,80,70
 TileSets/5Hex/Units/Laputtu-2
-bounds:1909,100,80,70
+bounds:1706,28,80,70
 TileSets/5Hex/Units/Phalanx-2
-bounds:1909,100,80,70
-TileSets/5Hex/Units/Longship-1
-bounds:1417,12,80,70
-TileSets/5Hex/Units/Mamluk-1
-bounds:812,492,80,70
-TileSets/5Hex/Units/Mamluk-3
-bounds:1886,1352,80,70
-TileSets/5Hex/Units/Matato'a
-bounds:1898,1208,80,70
+bounds:1706,28,80,70
 TileSets/5Hex/Units/Matato'a-2
-bounds:1827,172,80,70
+bounds:1905,183,80,70
 TileSets/5Hex/Units/Mpiambina
-bounds:1745,28,80,70
-TileSets/5Hex/Units/Mpiambina-2
-bounds:794,328,80,70
-TileSets/5Hex/Units/Nelayan-2
-bounds:610,290,80,70
+bounds:1788,111,80,70
 TileSets/5Hex/Units/Ngao Mbeba
-bounds:1663,172,80,70
-TileSets/5Hex/Units/Ngao Mbeba-3
-bounds:1804,1286,80,70
+bounds:1624,237,80,70
 TileSets/5Hex/Units/Pittore-2
-bounds:1745,100,80,70
-TileSets/5Hex/Units/Ranchero-3
-bounds:1904,1568,80,70
-TileSets/5Hex/Units/Pioneer-3
-bounds:1904,1568,80,70
-TileSets/5Hex/Units/Saethwyr
-bounds:1678,244,80,70
+bounds:1624,165,80,70
 TileSets/5Hex/Units/Saethwyr-1
-bounds:1804,1358,80,70
-TileSets/5Hex/Units/Sarissophoroi
-bounds:1893,1496,80,70
+bounds:1952,39,80,70
 TileSets/5Hex/Units/Sarissophoroi-3
-bounds:1663,100,80,70
-TileSets/5Hex/Units/Seaxman-1
-bounds:1499,12,80,70
+bounds:1905,255,80,70
 TileSets/5Hex/Units/Ski Infantry
-bounds:1811,1502,80,70
+bounds:1952,111,80,70
 TileSets/5Hex/Units/Ski Infantry-2
-bounds:1822,1574,80,70
-TileSets/5Hex/Units/Sparapet-1
-bounds:1760,244,80,70
+bounds:1870,111,80,70
 TileSets/5Hex/Units/Square Sail Ship-3
-bounds:1827,28,80,70
+bounds:1788,39,80,70
 TileSets/5Hex/Units/Ulan-1
-bounds:1663,28,80,70
-TileSets/AbsoluteUnits/Units/Bazooka
-bounds:408,32,77,100
-TileSets/AbsoluteUnits/Units/Caravan
-bounds:1520,1211,77,77
-TileSets/AbsoluteUnits/Units/Expeditionary Force
-bounds:1954,747,77,77
-TileSets/AbsoluteUnits/Units/Great Admiral
-bounds:1820,1849,95,95
-TileSets/AbsoluteUnits/Units/Great Writer-Industrial era
-bounds:1004,611,95,81
-TileSets/AbsoluteUnits/Units/Great Musician-Industrial era
-bounds:1004,611,95,81
-TileSets/AbsoluteUnits/Units/Pittore Musician-Industrial era
-bounds:1004,611,95,81
-TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era
-bounds:1004,611,95,81
-TileSets/AbsoluteUnits/Units/Pittore-Industrial era
-bounds:1004,611,95,81
+bounds:1706,172,80,70
 TileSets/AbsoluteUnits/Units/Great Writer-Industrial era-1
-bounds:1009,18,95,81
+bounds:1920,327,95,81
 TileSets/AbsoluteUnits/Units/Great Musician-Industrial era-1
-bounds:1009,18,95,81
+bounds:1920,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Musician-Industrial era-1
-bounds:1009,18,95,81
+bounds:1920,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era-1
-bounds:1009,18,95,81
+bounds:1920,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore-Industrial era-1
-bounds:1009,18,95,81
+bounds:1920,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Musician
-bounds:1206,813,95,81
+bounds:1726,327,95,81
 TileSets/AbsoluteUnits/Units/Great Musician
-bounds:1206,813,95,81
+bounds:1726,327,95,81
 TileSets/AbsoluteUnits/Units/Great Writer
-bounds:1206,813,95,81
+bounds:1726,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore
-bounds:1206,813,95,81
+bounds:1726,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Writer
-bounds:1206,813,95,81
+bounds:1726,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Musician-2
-bounds:1417,240,95,81
+bounds:1726,244,95,81
 TileSets/AbsoluteUnits/Units/Great Musician-2
-bounds:1417,240,95,81
+bounds:1726,244,95,81
 TileSets/AbsoluteUnits/Units/Great Writer-2
-bounds:1417,240,95,81
+bounds:1726,244,95,81
 TileSets/AbsoluteUnits/Units/Pittore Writer-2
-bounds:1417,240,95,81
+bounds:1726,244,95,81
 TileSets/AbsoluteUnits/Units/Pittore-2
-bounds:1417,240,95,81
-TileSets/AbsoluteUnits/Units/Pittore Musician-Industrial era-2
-bounds:602,207,95,81
-TileSets/AbsoluteUnits/Units/Great Musician-Industrial era-2
-bounds:602,207,95,81
-TileSets/AbsoluteUnits/Units/Great Writer-Industrial era-2
-bounds:602,207,95,81
-TileSets/AbsoluteUnits/Units/Pittore Writer-Industrial era-2
-bounds:602,207,95,81
-TileSets/AbsoluteUnits/Units/Pittore-Industrial era-2
-bounds:602,207,95,81
+bounds:1726,244,95,81
 TileSets/AbsoluteUnits/Units/Pittore Writer-1
-bounds:894,345,95,81
+bounds:1823,327,95,81
 TileSets/AbsoluteUnits/Units/Great Musician-1
-bounds:894,345,95,81
+bounds:1823,327,95,81
 TileSets/AbsoluteUnits/Units/Great Writer-1
-bounds:894,345,95,81
+bounds:1823,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore Musician-1
-bounds:894,345,95,81
+bounds:1823,327,95,81
 TileSets/AbsoluteUnits/Units/Pittore-1
-bounds:894,345,95,81
-TileSets/FantasyHex/Tiles/Hill+Forest+Antiquity Site
-bounds:442,2,32,28
-TileSets/FantasyHex/Tiles/Kampong Ayer
-bounds:907,9,32,28
-TileSets/FantasyHex/Tiles/Lapis Lazuli
-bounds:941,9,32,28
-TileSets/FantasyHex/Tiles/Tea
-bounds:1962,1034,32,28
-TileSets/FantasyHex/Units/Anti-Tank Rifle
-bounds:2002,1298,32,28
-TileSets/FantasyHex/Units/Laputtu
-bounds:1968,1298,32,28
-TileSets/FantasyHex/Units/Phalanx
-bounds:1968,1298,32,28
-TileSets/FantasyHex/Units/Mamluk
-bounds:408,2,32,28
-TileSets/FantasyHex/Units/Mpiambina
-bounds:975,9,32,28
-TileSets/FantasyHex/Units/Seaxman
-bounds:2010,1112,32,28
-TileSets/FantasyHex/Units/Sparapet
-bounds:1928,1034,32,28
-UnitIcons/Airship
-bounds:1914,1640,100,100
-UnitIcons/Akyat Cannon
-bounds:1709,1438,100,100
+bounds:1823,327,95,81
 UnitIcons/Anti-Tank Rifle
-bounds:204,1038,200,200
+bounds:406,820,200,200
 UnitIcons/Apedemaks Bow
-bounds:699,226,100,100
+bounds:1012,818,100,100
 UnitIcons/Atlatlist
-bounds:1101,630,100,100
+bounds:1012,512,100,100
 UnitIcons/Battering Ram
-bounds:1801,316,100,100
-UnitIcons/Bazooka
-bounds:1916,1742,100,100
+bounds:1828,410,100,100
 UnitIcons/Berber Cavalry
-bounds:1724,1030,100,100
+bounds:1828,818,100,100
 UnitIcons/Black Arquebusier
-bounds:703,22,100,100
+bounds:1114,2,100,100
 UnitIcons/Caravan
-bounds:1315,225,100,100
+bounds:1522,308,100,100
 UnitIcons/Cargo Ship
-bounds:1750,724,100,100
+bounds:1318,614,100,100
 UnitIcons/Cataphract
-bounds:1213,120,100,100
+bounds:1828,512,100,100
 UnitIcons/Comanche Riders
-bounds:1611,418,100,100
+bounds:1420,410,100,100
 UnitIcons/Combat Engineer
-bounds:1305,531,100,100
+bounds:1114,512,100,100
 UnitIcons/Dhow
-bounds:1815,622,100,100
+bounds:1318,2,100,100
 UnitIcons/Expeditionary Force
-bounds:1214,1240,200,200
+bounds:1820,1022,200,200
 UnitIcons/Fenian
-bounds:996,407,100,100
+bounds:1012,308,100,100
 UnitIcons/Force Publique
-bounds:996,509,100,100
+bounds:1012,614,100,100
 UnitIcons/Future Soldier
-bounds:204,1442,200,200
+bounds:810,1628,200,200
+UnitIcons/Gadrauht
+bounds:608,1830,200,200
 UnitIcons/Galley
-bounds:1311,327,100,100
+bounds:1522,410,100,100
 UnitIcons/Gallowglass
-bounds:1495,323,100,100
+bounds:1522,2,100,100
 UnitIcons/Gaucho
-bounds:1600,1235,100,100
+bounds:1216,920,100,100
+UnitIcons/Gerilya
+bounds:204,1224,200,200
 UnitIcons/Giant Death Robot
-bounds:805,22,100,100
+bounds:1216,818,100,100
 UnitIcons/Great Admiral
-bounds:1315,123,100,100
+bounds:1522,206,100,100
 UnitIcons/Great Galleass
-bounds:1826,1030,100,100
+bounds:1216,716,100,100
 UnitIcons/Great Musician
-bounds:810,1240,200,200
+bounds:608,416,200,200
 UnitIcons/Great Writer
-bounds:907,141,100,100
+bounds:1624,920,100,100
 UnitIcons/Heavy Chariot
-bounds:2,1644,200,200
+bounds:204,618,200,200
 UnitIcons/Heavy Cruiser
-bounds:608,1644,200,200
+bounds:406,1426,200,200
 UnitIcons/Hussar
-bounds:1407,638,100,100
-UnitIcons/Impi
-bounds:1720,1642,100,100
+bounds:1216,614,100,100
 UnitIcons/Jaguar
-bounds:1611,622,100,100
+bounds:1318,512,100,100
 UnitIcons/Konnitsa
-bounds:608,1038,200,200
-UnitIcons/Kris Swordsman
-bounds:408,134,89,100
+bounds:608,618,200,200
 UnitIcons/Landwehr
-bounds:2,230,200,200
+bounds:1012,1224,200,200
 UnitIcons/Longship
-bounds:1895,826,100,100
+bounds:1522,614,100,100
 UnitIcons/Mamluk
-bounds:1303,832,100,100
-UnitIcons/Marine
-bounds:1618,1744,100,100
-UnitIcons/Mehal Sefari
-bounds:1607,1540,100,100
-UnitIcons/Mpiambina
-bounds:894,530,100,100
+bounds:1012,2,100,100
 UnitIcons/Nau
-bounds:1305,633,100,100
+bounds:1420,920,100,100
 UnitIcons/Pathfinder
-bounds:1597,316,100,100
+bounds:1624,410,100,100
 UnitIcons/Pedite
-bounds:406,1442,200,200
+bounds:1820,1628,200,200
 UnitIcons/Pracinha
-bounds:1713,418,100,100
+bounds:1420,308,100,100
+UnitIcons/Reislaufer
+bounds:204,1628,200,200
+UnitIcons/Sarissophoroi
+bounds:2,1830,200,200
 UnitIcons/Seaxman
-bounds:1214,1644,200,200
-UnitIcons/Siege Tower
-bounds:710,532,100,100
-UnitIcons/Ski Infantry
-bounds:810,734,100,100
-UnitPromotionIcons/Ski Infantry
-bounds:810,734,100,100
+bounds:608,12,200,200
 UnitIcons/Swiss Guard
-bounds:1618,1846,200,200
+bounds:810,416,200,200
 UnitIcons/Viet Cong
-bounds:2,836,200,200
+bounds:406,1022,200,200
 UnitIcons/Voortrekker
-bounds:406,1038,200,200
-UnitIcons/Winged Hussar
-bounds:692,328,100,100
-UnitPromotionIcons/Ambition
-bounds:1991,36,50,50
+bounds:1012,1426,200,200
 UnitPromotionIcons/Epic of Battle
-bounds:406,1240,200,200
-UnitPromotionIcons/Golden Age from Victories
-bounds:1804,1234,50,50
+bounds:406,618,200,200
 UnitPromotionIcons/War Canoes
-bounds:1418,1044,100,100
+bounds:1522,818,100,100
 
 game4.png
 size:1024,512
 repeat:none
-PolicyIcons/Academy of Sciences
-bounds:844,186,50,50
-PolicyIcons/Consulates
-bounds:926,258,50,50
-PolicyIcons/Cultural Centers
-bounds:956,310,50,50
-PolicyIcons/Nationalism
-bounds:814,114,50,50
-PolicyIcons/Naval Tradition
-bounds:874,238,50,50
-PolicyIcons/Religious Tolerance
-bounds:740,166,50,50
-PolicyIcons/Silk Road
-bounds:814,62,50,50
-PolicyIcons/Treasure Fleets
-bounds:792,166,50,50
-PolicyIcons/Universal Healthcare
-bounds:762,114,50,50
-PolicyIcons/Free Healthcare
-bounds:762,114,50,50
-PolicyIcons/Urbanization
-bounds:710,94,50,50
 TileSets/5Hex/Tiles/Amber+Mine
-bounds:412,74,80,70
-TileSets/5Hex/Tiles/Diamonds
-bounds:84,290,80,70
-TileSets/5Hex/Tiles/Jade
-bounds:248,218,80,70
-TileSets/5Hex/Tiles/Jade+Mine
-bounds:166,146,80,70
-TileSets/5Hex/Tiles/Lapis Lazuli
-bounds:84,146,80,70
-TileSets/5Hex/Tiles/Lapis Lazuli+Mine
-bounds:740,290,80,70
-TileSets/5Hex/Tiles/Obsidian
-bounds:412,362,80,70
-TileSets/5Hex/Tiles/Obsidian+Quarry
-bounds:2,2,80,70
-TileSets/5Hex/Units/Apedemaks Bow-2
-bounds:576,146,80,70
-TileSets/5Hex/Units/Apedemaks Bow-3
-bounds:2,146,80,70
-TileSets/5Hex/Units/Ballista Elephant
-bounds:576,290,80,70
-TileSets/5Hex/Units/Ballista Elephant-2
-bounds:822,362,80,70
-TileSets/5Hex/Units/Ballista Elephant-3
-bounds:248,362,80,70
-TileSets/5Hex/Units/Black Arquebusier
-bounds:412,2,80,70
-TileSets/5Hex/Units/Black Arquebusier-2
-bounds:330,146,80,70
-TileSets/5Hex/Units/Buffalo Hunter
-bounds:84,74,80,70
-TileSets/5Hex/Units/Buffalo Hunter-1
-bounds:412,434,80,70
-TileSets/5Hex/Units/Buffalo Hunter-3
-bounds:494,146,80,70
-TileSets/5Hex/Units/Dalai Lama-1
-bounds:740,218,80,70
-TileSets/5Hex/Units/Dalai Lama-2
-bounds:330,362,80,70
-TileSets/5Hex/Units/Fast Worker-1
-bounds:84,218,80,70
-TileSets/5Hex/Units/Ngangkari-1
-bounds:84,218,80,70
-TileSets/5Hex/Units/Fast Worker-3
-bounds:576,362,80,70
-TileSets/5Hex/Units/Ngangkari-3
-bounds:576,362,80,70
-TileSets/5Hex/Units/Heavy Chariot
-bounds:2,218,80,70
-TileSets/5Hex/Units/Heavy Chariot-1
-bounds:2,434,80,70
-TileSets/5Hex/Units/Heavy Chariot-2
-bounds:904,362,80,70
-TileSets/5Hex/Units/Heavy Chariot-3
-bounds:166,74,80,70
-TileSets/5Hex/Units/Hetairoi-1
-bounds:740,362,80,70
-TileSets/5Hex/Units/Hetairoi-2
-bounds:166,434,80,70
-TileSets/5Hex/Units/Konnitsa-2
-bounds:412,146,80,70
-TileSets/5Hex/Units/Krivis-1
-bounds:166,290,80,70
-TileSets/5Hex/Units/Krivis-3
-bounds:658,434,80,70
-TileSets/5Hex/Units/Laputtu
-bounds:84,434,80,70
-TileSets/5Hex/Units/Phalanx
-bounds:84,434,80,70
-TileSets/5Hex/Units/Laputtu-1
-bounds:412,290,80,70
-TileSets/5Hex/Units/Phalanx-1
-bounds:412,290,80,70
-TileSets/5Hex/Units/Laputtu-3
-bounds:904,434,80,70
-TileSets/5Hex/Units/Phalanx-3
-bounds:904,434,80,70
-TileSets/5Hex/Units/Longship
-bounds:84,2,80,70
-TileSets/5Hex/Units/Longship-2
-bounds:658,290,80,70
-TileSets/5Hex/Units/Longship-3
-bounds:84,362,80,70
-TileSets/5Hex/Units/Mamluk
-bounds:248,2,80,70
-TileSets/5Hex/Units/Mamluk-2
-bounds:494,290,80,70
-TileSets/5Hex/Units/Matato'a-1
-bounds:248,146,80,70
-TileSets/5Hex/Units/Matato'a-3
 bounds:658,218,80,70
-TileSets/5Hex/Units/Mpiambina-1
-bounds:330,434,80,70
-TileSets/5Hex/Units/Mpiambina-3
-bounds:494,218,80,70
-TileSets/5Hex/Units/Nelayan
-bounds:330,2,80,70
-TileSets/5Hex/Units/Nelayan-1
-bounds:248,434,80,70
-TileSets/5Hex/Units/Nelayan-3
-bounds:412,218,80,70
-TileSets/5Hex/Units/Ngao Mbeba-2
-bounds:166,2,80,70
-TileSets/5Hex/Units/Pioneer
-bounds:2,74,80,70
-TileSets/5Hex/Units/Ranchero
-bounds:2,74,80,70
-TileSets/5Hex/Units/Pittore
-bounds:658,362,80,70
-TileSets/5Hex/Units/Pittore-1
-bounds:494,434,80,70
-TileSets/5Hex/Units/Pittore-3
-bounds:494,74,80,70
-TileSets/5Hex/Units/Ranchero-2
-bounds:248,74,80,70
-TileSets/5Hex/Units/Pioneer-2
-bounds:248,74,80,70
-TileSets/5Hex/Units/Saethwyr-2
-bounds:576,74,80,70
-TileSets/5Hex/Units/Saethwyr-3
-bounds:248,290,80,70
-TileSets/5Hex/Units/Sarissophoroi-1
-bounds:822,290,80,70
-TileSets/5Hex/Units/Sarissophoroi-2
-bounds:330,290,80,70
-TileSets/5Hex/Units/Seaxman
+TileSets/5Hex/Tiles/Diamonds
+bounds:84,146,80,70
+TileSets/5Hex/Tiles/Jade
 bounds:494,362,80,70
-TileSets/5Hex/Units/Seaxman-2
-bounds:576,218,80,70
-TileSets/5Hex/Units/Seaxman-3
-bounds:2,290,80,70
-TileSets/5Hex/Units/Ski Infantry-1
-bounds:576,434,80,70
-TileSets/5Hex/Units/Ski Infantry-3
-bounds:494,2,80,70
-TileSets/5Hex/Units/Sparapet
-bounds:658,146,80,70
-TileSets/5Hex/Units/Sparapet-2
-bounds:740,434,80,70
-TileSets/5Hex/Units/Sparapet-3
-bounds:2,362,80,70
-TileSets/5Hex/Units/Square Sail Ship
-bounds:166,218,80,70
-TileSets/5Hex/Units/Square Sail Ship-1
+TileSets/5Hex/Tiles/Jade+Mine
+bounds:412,290,80,70
+TileSets/5Hex/Tiles/Lapis Lazuli
+bounds:330,290,80,70
+TileSets/5Hex/Tiles/Lapis Lazuli+Mine
 bounds:576,2,80,70
-TileSets/5Hex/Units/Square Sail Ship-2
-bounds:330,218,80,70
-TileSets/5Hex/Units/Ulan
-bounds:330,74,80,70
-TileSets/5Hex/Units/Ulan-2
+TileSets/5Hex/Tiles/Obsidian
+bounds:166,2,80,70
+TileSets/5Hex/Tiles/Obsidian+Quarry
+bounds:248,146,80,70
+TileSets/5Hex/Units/Apedemaks Bow-2
+bounds:822,290,80,70
+TileSets/5Hex/Units/Apedemaks Bow-3
+bounds:330,362,80,70
+TileSets/5Hex/Units/Ballista Elephant
 bounds:822,434,80,70
-TileSets/5Hex/Units/Ulan-3
+TileSets/5Hex/Units/Ballista Elephant-2
+bounds:658,74,80,70
+TileSets/5Hex/Units/Ballista Elephant-3
+bounds:84,74,80,70
+TileSets/5Hex/Units/Black Arquebusier
+bounds:658,146,80,70
+TileSets/5Hex/Units/Black Arquebusier-2
+bounds:576,290,80,70
+TileSets/5Hex/Units/Black Arquebusier-3
+bounds:2,290,80,70
+TileSets/5Hex/Units/Buffalo Hunter
+bounds:330,218,80,70
+TileSets/5Hex/Units/Buffalo Hunter-1
+bounds:166,74,80,70
+TileSets/5Hex/Units/Buffalo Hunter-3
+bounds:740,290,80,70
+TileSets/5Hex/Units/Dalai Lama
 bounds:166,362,80,70
-UnitPromotionIcons/Altitude Training
-bounds:658,42,50,50
-UnitPromotionIcons/Ambush
-bounds:904,310,50,50
-UnitPromotionIcons/Ambush Formation
-bounds:822,238,50,50
-UnitPromotionIcons/Anti-naval
-bounds:762,62,50,50
-UnitPromotionIcons/Formation
-bounds:658,94,50,50
-UnitPromotionIcons/Invulnerability
-bounds:710,42,50,50
+TileSets/5Hex/Units/Dalai Lama-1
+bounds:740,74,80,70
+TileSets/5Hex/Units/Dalai Lama-2
+bounds:84,2,80,70
+TileSets/5Hex/Units/Fast Worker
+bounds:166,434,80,70
+TileSets/5Hex/Units/Ngangkari
+bounds:166,434,80,70
+TileSets/5Hex/Units/Fast Worker-1
+bounds:412,434,80,70
+TileSets/5Hex/Units/Ngangkari-1
+bounds:412,434,80,70
+TileSets/5Hex/Units/Fast Worker-3
+bounds:330,2,80,70
+TileSets/5Hex/Units/Ngangkari-3
+bounds:330,2,80,70
+TileSets/5Hex/Units/Heavy Chariot
+bounds:2,74,80,70
+TileSets/5Hex/Units/Heavy Chariot-1
+bounds:248,434,80,70
+TileSets/5Hex/Units/Heavy Chariot-2
+bounds:904,218,80,70
+TileSets/5Hex/Units/Heavy Chariot-3
+bounds:412,218,80,70
+TileSets/5Hex/Units/Hetairoi-1
+bounds:494,2,80,70
+TileSets/5Hex/Units/Hetairoi-2
+bounds:330,434,80,70
+TileSets/5Hex/Units/Konnitsa-2
+bounds:658,290,80,70
+TileSets/5Hex/Units/Konnitsa-3
+bounds:84,290,80,70
+TileSets/5Hex/Units/Krivis-1
+bounds:2,2,80,70
+TileSets/5Hex/Units/Krivis-3
+bounds:412,74,80,70
+TileSets/5Hex/Units/Laputtu
+bounds:84,218,80,70
+TileSets/5Hex/Units/Phalanx
+bounds:84,218,80,70
+TileSets/5Hex/Units/Laputtu-1
+bounds:658,434,80,70
+TileSets/5Hex/Units/Phalanx-1
+bounds:658,434,80,70
+TileSets/5Hex/Units/Laputtu-3
+bounds:740,146,80,70
+TileSets/5Hex/Units/Phalanx-3
+bounds:740,146,80,70
+TileSets/5Hex/Units/Longship
+bounds:330,146,80,70
+TileSets/5Hex/Units/Longship-2
+bounds:904,434,80,70
+TileSets/5Hex/Units/Longship-3
+bounds:248,362,80,70
+TileSets/5Hex/Units/Mamluk
+bounds:494,146,80,70
+TileSets/5Hex/Units/Mamluk-2
+bounds:740,434,80,70
+TileSets/5Hex/Units/Mamluk-3
+bounds:84,362,80,70
+TileSets/5Hex/Units/Matato'a
+bounds:2,218,80,70
+TileSets/5Hex/Units/Matato'a-1
+bounds:494,290,80,70
+TileSets/5Hex/Units/Matato'a-3
+bounds:904,362,80,70
+TileSets/5Hex/Units/Mpiambina-1
+bounds:166,146,80,70
+TileSets/5Hex/Units/Mpiambina-3
+bounds:740,362,80,70
+TileSets/5Hex/Units/Nelayan
+bounds:576,146,80,70
+TileSets/5Hex/Units/Nelayan-1
+bounds:248,290,80,70
+TileSets/5Hex/Units/Nelayan-3
+bounds:658,362,80,70
+TileSets/5Hex/Units/Ngao Mbeba-2
+bounds:412,146,80,70
+TileSets/5Hex/Units/Ngao Mbeba-3
+bounds:2,434,80,70
+TileSets/5Hex/Units/Pioneer
+bounds:248,218,80,70
+TileSets/5Hex/Units/Ranchero
+bounds:248,218,80,70
+TileSets/5Hex/Units/Pittore
+bounds:412,2,80,70
+TileSets/5Hex/Units/Pittore-1
+bounds:248,74,80,70
+TileSets/5Hex/Units/Pittore-3
+bounds:740,218,80,70
+TileSets/5Hex/Units/Ranchero-2
+bounds:494,218,80,70
+TileSets/5Hex/Units/Pioneer-2
+bounds:494,218,80,70
+TileSets/5Hex/Units/Ranchero-3
+bounds:2,362,80,70
+TileSets/5Hex/Units/Pioneer-3
+bounds:2,362,80,70
+TileSets/5Hex/Units/Saethwyr-2
+bounds:904,290,80,70
+TileSets/5Hex/Units/Saethwyr-3
+bounds:494,434,80,70
+TileSets/5Hex/Units/Sarissophoroi
+bounds:84,434,80,70
+TileSets/5Hex/Units/Sarissophoroi-1
+bounds:822,146,80,70
+TileSets/5Hex/Units/Sarissophoroi-2
+bounds:576,434,80,70
+TileSets/5Hex/Units/Seaxman
+bounds:248,2,80,70
+TileSets/5Hex/Units/Seaxman-2
+bounds:822,362,80,70
+TileSets/5Hex/Units/Seaxman-3
+bounds:166,290,80,70
+TileSets/5Hex/Units/Ski Infantry-1
+bounds:330,74,80,70
+TileSets/5Hex/Units/Ski Infantry-3
+bounds:822,218,80,70
+TileSets/5Hex/Units/Sparapet
+bounds:658,2,80,70
+TileSets/5Hex/Units/Sparapet-2
+bounds:494,74,80,70
+TileSets/5Hex/Units/Sparapet-3
+bounds:2,146,80,70
+TileSets/5Hex/Units/Square Sail Ship
+bounds:412,362,80,70
+TileSets/5Hex/Units/Square Sail Ship-1
+bounds:740,2,80,70
+TileSets/5Hex/Units/Square Sail Ship-2
+bounds:576,362,80,70
+TileSets/5Hex/Units/Ulan
+bounds:576,218,80,70
+TileSets/5Hex/Units/Ulan-2
+bounds:576,74,80,70
+TileSets/5Hex/Units/Ulan-3
+bounds:166,218,80,70
