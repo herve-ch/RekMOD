@@ -120,7 +120,7 @@ bounds:1422,1644,200,200
 PolicyIcons/Artistic Genius
 bounds:1418,1390,50,50
 PolicyIcons/Avant Garde
-bounds:1979,254,50,50
+bounds:1979,80,50,50
 PolicyIcons/Capitalism
 bounds:1782,1390,50,50
 PolicyIcons/Colonialism
@@ -167,8 +167,6 @@ PolicyIcons/Space Procurements
 bounds:808,436,200,200
 PolicyIcons/Spaceflight Pioneers
 bounds:1394,1188,200,200
-PolicyIcons/Third Alternative
-bounds:1979,150,50,50
 PolicyIcons/Wagon Trains
 bounds:1886,1390,50,50
 PolicyIcons/Workers Faculties
@@ -228,19 +226,25 @@ bounds:1637,4,80,70
 TileSets/AbsoluteUnits/Units/Airship
 bounds:806,1268,77,116
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle
-bounds:1974,1990,64,56
+bounds:1974,1932,64,56
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle-1
-bounds:1979,364,64,56
+bounds:1979,190,64,56
 TileSets/AbsoluteUnits/Units/Anti-Tank Rifle-2
-bounds:1867,14,64,56
+bounds:1933,14,64,56
 TileSets/AbsoluteUnits/Units/Galley
-bounds:1974,1874,64,56
+bounds:1801,18,64,56
 TileSets/AbsoluteUnits/Units/Galley-1
-bounds:1979,422,64,56
+bounds:1979,306,64,56
 TileSets/AbsoluteUnits/Units/Galley-2
 bounds:1275,14,64,56
 TileSets/AbsoluteUnits/Units/Galley-Barbarians
 bounds:1341,14,64,56
+TileSets/AbsoluteUnits/Units/Heavy Cruiser
+bounds:1979,422,64,56
+TileSets/AbsoluteUnits/Units/Heavy Cruiser-1
+bounds:1979,248,64,56
+TileSets/AbsoluteUnits/Units/Heavy Cruiser-2
+bounds:1407,14,64,56
 TileSets/FantasyHex/Tiles/Amber
 bounds:859,2,32,28
 TileSets/FantasyHex/Tiles/Antiquity Site
@@ -328,7 +332,7 @@ bounds:385,4,32,32
 TileSets/FantasyHex/Units/Apedemaks Bow
 bounds:893,2,32,28
 TileSets/FantasyHex/Units/Ballista Elephant
-bounds:1999,38,32,28
+bounds:1999,20,32,28
 TileSets/FantasyHex/Units/Black Arquebusier
 bounds:806,1244,30,22
 TileSets/FantasyHex/Units/Black Legion
@@ -343,8 +347,6 @@ TileSets/FantasyHex/Units/Ngangkari
 bounds:757,2,32,28
 TileSets/FantasyHex/Units/Future Soldier
 bounds:621,2,32,28
-TileSets/FantasyHex/Units/Hand-Axe
-bounds:1999,8,32,28
 TileSets/FantasyHex/Units/Heavy Chariot
 bounds:2000,1030,32,28
 TileSets/FantasyHex/Units/Hetairoi
@@ -380,9 +382,9 @@ bounds:791,2,32,28
 TileSets/FantasyHex/Units/Square Sail Ship
 bounds:2000,1240,32,28
 TileSets/FantasyHex/Units/Ulan
-bounds:1999,68,32,28
+bounds:1999,50,32,28
 TileSets/HexaRealm/Tiles/Chateau
-bounds:1979,306,64,56
+bounds:1979,132,64,56
 TileSets/HexaRealm/Tiles/Kasbah
 bounds:1209,10,64,60
 TileSets/HexaRealm/Tiles/Land Trade Route (Food)
@@ -404,25 +406,25 @@ bounds:1414,345,55,43
 TileSets/HexaRealm/Tiles/Land Trade Route (Production)-Renaissance era
 bounds:931,1246,44,35
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)
-bounds:1974,1932,64,56
+bounds:1974,1874,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)
-bounds:1974,1932,64,56
+bounds:1974,1874,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)
-bounds:1974,1932,64,56
+bounds:1974,1874,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Modern era
-bounds:1407,14,64,56
+bounds:1974,1990,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Modern era
-bounds:1407,14,64,56
+bounds:1974,1990,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Modern era
-bounds:1407,14,64,56
+bounds:1974,1990,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Production)-Renaissance era
-bounds:1933,14,64,56
+bounds:1979,364,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Food)-Renaissance era
-bounds:1933,14,64,56
+bounds:1979,364,64,56
 TileSets/HexaRealm/Tiles/Sea Trade Route (Gold)-Renaissance era
-bounds:1933,14,64,56
+bounds:1979,364,64,56
 TileSets/HexaRealm/Units/Anti-Tank Rifle
-bounds:1801,18,64,56
+bounds:1867,14,64,56
 UnitIcons/Archaeologist
 bounds:1683,884,100,100
 UnitIcons/Buffalo Hunter
@@ -479,8 +481,6 @@ UnitPromotionIcons/Buffalo Horns
 bounds:1990,1390,50,50
 UnitPromotionIcons/Buffalo Loins
 bounds:1990,1390,50,50
-UnitPromotionIcons/Golden Age from Victories
-bounds:1979,98,50,50
 UnitPromotionIcons/Mystic Blade
 bounds:1730,1390,50,50
 UnitPromotionIcons/Restlessness
@@ -505,8 +505,6 @@ UnitPromotionIcons/Sampy
 bounds:1574,1390,50,50
 UnitPromotionIcons/Spear Throw
 bounds:1262,1390,50,50
-UnitPromotionIcons/Targeting I (air)
-bounds:1979,202,50,50
 
 game2.png
 size:2048,2048
@@ -990,29 +988,27 @@ bounds:810,638,92,92
 NationIcons/Zulu
 bounds:1804,1334,100,100
 PolicyIcons/Clausewitz's Legacy
-bounds:1904,478,50,50
+bounds:1904,322,50,50
 PolicyIcons/Creative Expression
 bounds:204,430,200,200
 PolicyIcons/Cult of Personality
 bounds:1012,1642,200,200
 PolicyIcons/Cultural Revolution
 bounds:2,1036,200,200
-PolicyIcons/Fine Arts
-bounds:1904,270,50,50
 PolicyIcons/Futurism
 bounds:204,1238,200,200
 PolicyIcons/Hero of the People
-bounds:1904,374,50,50
+bounds:1910,999,50,50
 PolicyIcons/Mercenary Army
-bounds:1914,582,50,50
-PolicyIcons/Navigation School
-bounds:1904,322,50,50
-PolicyIcons/Party Leadership
 bounds:1904,426,50,50
+PolicyIcons/Party Leadership
+bounds:1904,270,50,50
+PolicyIcons/Third Alternative
+bounds:1914,530,50,50
 PolicyIcons/Treaty Organization
 bounds:406,632,200,200
 PolicyIcons/United Front
-bounds:1914,530,50,50
+bounds:1904,374,50,50
 ResourceIcons/Amber
 bounds:1414,218,100,100
 ResourceIcons/Antiquity Site
@@ -1260,27 +1256,29 @@ bounds:804,205,95,81
 TileSets/AbsoluteUnits/Units/Pittore-1
 bounds:804,205,95,81
 TileSets/FantasyHex/Tiles/Hill+Forest+Antiquity Site
-bounds:1904,240,32,28
-TileSets/FantasyHex/Tiles/Kampong Ayer
-bounds:1924,709,32,28
-TileSets/FantasyHex/Tiles/Lapis Lazuli
-bounds:1924,679,32,28
-TileSets/FantasyHex/Tiles/Tea
-bounds:1945,6,32,28
-TileSets/FantasyHex/Units/Anti-Tank Rifle
-bounds:1910,969,32,28
-TileSets/FantasyHex/Units/Laputtu
-bounds:1979,6,32,28
-TileSets/FantasyHex/Units/Phalanx
-bounds:1979,6,32,28
-TileSets/FantasyHex/Units/Mamluk
-bounds:1879,739,32,28
-TileSets/FantasyHex/Units/Mpiambina
-bounds:1924,649,32,28
-TileSets/FantasyHex/Units/Seaxman
-bounds:2013,6,32,28
-TileSets/FantasyHex/Units/Sparapet
 bounds:1913,739,32,28
+TileSets/FantasyHex/Tiles/Kampong Ayer
+bounds:1924,679,32,28
+TileSets/FantasyHex/Tiles/Lapis Lazuli
+bounds:1924,649,32,28
+TileSets/FantasyHex/Tiles/Tea
+bounds:1979,6,32,28
+TileSets/FantasyHex/Units/Anti-Tank Rifle
+bounds:1924,709,32,28
+TileSets/FantasyHex/Units/Hand-Axe
+bounds:1879,739,32,28
+TileSets/FantasyHex/Units/Laputtu
+bounds:1910,969,32,28
+TileSets/FantasyHex/Units/Phalanx
+bounds:1910,969,32,28
+TileSets/FantasyHex/Units/Mamluk
+bounds:1904,240,32,28
+TileSets/FantasyHex/Units/Mpiambina
+bounds:2013,6,32,28
+TileSets/FantasyHex/Units/Seaxman
+bounds:1918,1123,32,28
+TileSets/FantasyHex/Units/Sparapet
+bounds:1945,6,32,28
 UnitIcons/Airship
 bounds:1709,1436,100,100
 UnitIcons/Akyat Cannon
@@ -1385,10 +1383,12 @@ UnitIcons/Voortrekker
 bounds:406,1036,200,200
 UnitIcons/Winged Hussar
 bounds:1096,730,100,100
-UnitPromotionIcons/Ambition
-bounds:1910,999,50,50
 UnitPromotionIcons/Epic of Battle
 bounds:406,1238,200,200
+UnitPromotionIcons/Golden Age from Victories
+bounds:1904,478,50,50
+UnitPromotionIcons/Targeting I (air)
+bounds:1914,582,50,50
 UnitPromotionIcons/War Canoes
 bounds:1471,728,100,100
 
@@ -1396,37 +1396,41 @@ game4.png
 size:1024,512
 repeat:none
 PolicyIcons/Academy of Sciences
-bounds:896,186,50,50
-PolicyIcons/Consulates
-bounds:866,82,50,50
-PolicyIcons/Cultural Centers
-bounds:866,134,50,50
-PolicyIcons/Cultural Diplomacy
-bounds:658,94,50,50
-PolicyIcons/Five-Year Plan
-bounds:822,238,50,50
-PolicyIcons/Media Culture
-bounds:904,310,50,50
-PolicyIcons/Mobilization
-bounds:740,166,50,50
-PolicyIcons/Nationalism
 bounds:918,134,50,50
-PolicyIcons/Naval Tradition
-bounds:814,62,50,50
-PolicyIcons/Religious Tolerance
-bounds:710,42,50,50
-PolicyIcons/Silk Road
+PolicyIcons/Consulates
+bounds:762,10,50,50
+PolicyIcons/Cultural Centers
 bounds:918,82,50,50
-PolicyIcons/Treasure Fleets
-bounds:956,310,50,50
-PolicyIcons/Universal Healthcare
-bounds:926,258,50,50
-PolicyIcons/Free Healthcare
-bounds:926,258,50,50
-PolicyIcons/Urbanization
-bounds:874,238,50,50
-PolicyIcons/Volunteer Army
+PolicyIcons/Cultural Diplomacy
+bounds:904,310,50,50
+PolicyIcons/Fine Arts
+bounds:740,166,50,50
+PolicyIcons/Five-Year Plan
+bounds:710,94,50,50
+PolicyIcons/Media Culture
+bounds:710,42,50,50
+PolicyIcons/Mobilization
 bounds:658,42,50,50
+PolicyIcons/Nationalism
+bounds:814,10,50,50
+PolicyIcons/Naval Tradition
+bounds:866,82,50,50
+PolicyIcons/Navigation School
+bounds:658,94,50,50
+PolicyIcons/Religious Tolerance
+bounds:762,62,50,50
+PolicyIcons/Silk Road
+bounds:866,30,50,50
+PolicyIcons/Treasure Fleets
+bounds:814,62,50,50
+PolicyIcons/Universal Healthcare
+bounds:896,186,50,50
+PolicyIcons/Free Healthcare
+bounds:896,186,50,50
+PolicyIcons/Urbanization
+bounds:926,258,50,50
+PolicyIcons/Volunteer Army
+bounds:792,166,50,50
 TileSets/5Hex/Tiles/Amber+Mine
 bounds:412,74,80,70
 TileSets/5Hex/Tiles/Diamonds
@@ -1582,14 +1586,16 @@ bounds:822,434,80,70
 TileSets/5Hex/Units/Ulan-3
 bounds:166,362,80,70
 UnitPromotionIcons/Altitude Training
-bounds:762,62,50,50
+bounds:956,310,50,50
+UnitPromotionIcons/Ambition
+bounds:822,238,50,50
 UnitPromotionIcons/Ambush
-bounds:762,114,50,50
-UnitPromotionIcons/Ambush Formation
-bounds:792,166,50,50
-UnitPromotionIcons/Anti-naval
-bounds:814,114,50,50
-UnitPromotionIcons/Formation
-bounds:710,94,50,50
-UnitPromotionIcons/Invulnerability
 bounds:844,186,50,50
+UnitPromotionIcons/Ambush Formation
+bounds:874,238,50,50
+UnitPromotionIcons/Anti-naval
+bounds:866,134,50,50
+UnitPromotionIcons/Formation
+bounds:762,114,50,50
+UnitPromotionIcons/Invulnerability
+bounds:814,114,50,50
