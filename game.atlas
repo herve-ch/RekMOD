@@ -994,47 +994,45 @@ bounds:204,431,200,200
 PolicyIcons/Cult of Personality
 bounds:1012,1643,200,200
 PolicyIcons/Cultural Diplomacy
-bounds:1986,484,50,50
+bounds:1990,1023,50,50
 PolicyIcons/Cultural Revolution
 bounds:2,1037,200,200
 PolicyIcons/Fine Arts
-bounds:1986,588,50,50
+bounds:1990,1127,50,50
 PolicyIcons/Five-Year Plan
-bounds:1986,380,50,50
+bounds:1864,14,50,50
 PolicyIcons/Futurism
 bounds:204,1239,200,200
 PolicyIcons/Hero of the People
-bounds:1986,692,50,50
+bounds:1981,692,50,50
 PolicyIcons/Media Culture
-bounds:1986,328,50,50
+bounds:1916,14,50,50
 PolicyIcons/Mercenary Army
 bounds:1207,7,50,50
 PolicyIcons/Mobilization
-bounds:1986,432,50,50
-PolicyIcons/Naval Tradition
-bounds:1598,10,50,50
+bounds:1990,971,50,50
 PolicyIcons/Navigation School
-bounds:1986,640,50,50
+bounds:1990,1179,50,50
 PolicyIcons/Party Leadership
 bounds:1981,744,50,50
 PolicyIcons/Religious Tolerance
-bounds:1990,1179,50,50
+bounds:1986,610,50,50
 PolicyIcons/Third Alternative
 bounds:1902,796,50,50
 PolicyIcons/Treasure Fleets
-bounds:1916,19,50,50
+bounds:1986,298,50,50
 PolicyIcons/Treaty Organization
 bounds:406,633,200,200
 PolicyIcons/United Front
 bounds:999,9,50,50
 PolicyIcons/Universal Healthcare
-bounds:1968,19,50,50
+bounds:1990,889,50,50
 PolicyIcons/Free Healthcare
-bounds:1968,19,50,50
+bounds:1990,889,50,50
 PolicyIcons/Urbanization
-bounds:1990,971,50,50
+bounds:1986,402,50,50
 PolicyIcons/Volunteer Army
-bounds:1986,276,50,50
+bounds:1968,14,50,50
 ResourceIcons/Amber
 bounds:1600,1256,100,100
 ResourceIcons/Antiquity Site
@@ -1088,7 +1086,7 @@ bounds:1826,1025,80,76
 TileSets/5Hex/Tiles/Coffee+Plantation
 bounds:1822,713,80,76
 TileSets/5Hex/Tiles/Coral
-bounds:1894,215,80,70
+bounds:1884,138,80,70
 TileSets/5Hex/Tiles/Forest+Hardwood+Lumber mill
 bounds:1822,401,80,76
 TileSets/5Hex/Tiles/HF+Hardwood+Lumber mill
@@ -1119,10 +1117,8 @@ TileSets/5Hex/Tiles/Tobacco+Plantation
 bounds:1908,1153,80,76
 TileSets/5Hex/Units/Apedemaks Bow
 bounds:1802,107,80,70
-TileSets/5Hex/Units/Apedemaks Bow-1
-bounds:1516,46,80,70
 TileSets/5Hex/Units/Buffalo Hunter-2
-bounds:1904,647,80,70
+bounds:1904,570,80,70
 TileSets/5Hex/Units/Dalai Lama-3
 bounds:1782,35,80,70
 TileSets/5Hex/Units/Fast Worker-2
@@ -1130,7 +1126,7 @@ bounds:1512,832,80,70
 TileSets/5Hex/Units/Ngangkari-2
 bounds:1512,832,80,70
 TileSets/5Hex/Units/Konnitsa
-bounds:1904,359,80,70
+bounds:1904,282,80,70
 TileSets/5Hex/Units/Konnitsa-1
 bounds:1812,257,80,70
 TileSets/5Hex/Units/Krivis
@@ -1138,31 +1134,31 @@ bounds:1908,848,80,70
 TileSets/5Hex/Units/Krivis-2
 bounds:1720,119,80,70
 TileSets/5Hex/Units/Longship-1
-bounds:1904,575,80,70
+bounds:1904,498,80,70
 TileSets/5Hex/Units/Mamluk-1
 bounds:1518,1289,80,70
 TileSets/5Hex/Units/Matato'a-2
-bounds:1884,71,80,70
+bounds:1966,66,80,70
 TileSets/5Hex/Units/Mpiambina
-bounds:1966,71,80,70
+bounds:1516,46,80,70
 TileSets/5Hex/Units/Mpiambina-2
 bounds:1822,329,80,70
 TileSets/5Hex/Units/Nelayan-2
 bounds:589,16,80,70
 TileSets/5Hex/Units/Ngao Mbeba
-bounds:1904,431,80,70
+bounds:1904,354,80,70
 TileSets/5Hex/Units/Pittore-2
-bounds:1966,143,80,70
+bounds:1884,66,80,70
 TileSets/5Hex/Units/Saethwyr
 bounds:1618,62,80,70
 TileSets/5Hex/Units/Sarissophoroi-3
-bounds:1904,287,80,70
+bounds:1894,210,80,70
 TileSets/5Hex/Units/Seaxman-1
-bounds:1904,503,80,70
+bounds:1904,426,80,70
 TileSets/5Hex/Units/Sparapet-1
 bounds:1700,47,80,70
 TileSets/5Hex/Units/Ulan-1
-bounds:1884,143,80,70
+bounds:1966,138,80,70
 TileSets/AbsoluteUnits/Units/Archaeologist
 bounds:610,263,90,77
 TileSets/AbsoluteUnits/Units/Bazooka
@@ -1170,11 +1166,13 @@ bounds:408,28,77,100
 TileSets/AbsoluteUnits/Units/Caravan
 bounds:1520,1210,77,77
 TileSets/AbsoluteUnits/Units/Cargo Ship
-bounds:1904,719,75,75
+bounds:1904,642,75,75
 TileSets/AbsoluteUnits/Units/Cargo Ship-2
 bounds:1908,920,75,75
 TileSets/AbsoluteUnits/Units/Cargo Ship-1
 bounds:1908,920,75,75
+TileSets/AbsoluteUnits/Units/Cargo Ship-Industrial era
+bounds:1904,719,75,75
 TileSets/AbsoluteUnits/Units/Expeditionary Force
 bounds:1724,1177,77,77
 TileSets/AbsoluteUnits/Units/Future Soldier
@@ -1254,29 +1252,29 @@ bounds:1211,773,95,81
 TileSets/AbsoluteUnits/Units/Pittore-1
 bounds:1211,773,95,81
 TileSets/FantasyHex/Tiles/Hill+Forest+Antiquity Site
-bounds:1513,16,32,28
+bounds:1981,662,32,28
 TileSets/FantasyHex/Tiles/Kampong Ayer
-bounds:1650,2,32,28
-TileSets/FantasyHex/Tiles/Lapis Lazuli
-bounds:1684,17,32,28
-TileSets/FantasyHex/Tiles/Tea
-bounds:1985,941,32,28
-TileSets/FantasyHex/Units/Anti-Tank Rifle
 bounds:1650,32,32,28
+TileSets/FantasyHex/Tiles/Lapis Lazuli
+bounds:1650,2,32,28
+TileSets/FantasyHex/Tiles/Tea
+bounds:1547,16,32,28
+TileSets/FantasyHex/Units/Anti-Tank Rifle
+bounds:1990,859,32,28
 TileSets/FantasyHex/Units/Hand-Axe
 bounds:1855,1203,32,28
 TileSets/FantasyHex/Units/Laputtu
-bounds:1990,859,32,28
+bounds:1985,941,32,28
 TileSets/FantasyHex/Units/Phalanx
-bounds:1990,859,32,28
+bounds:1985,941,32,28
 TileSets/FantasyHex/Units/Mamluk
 bounds:1259,29,32,28
 TileSets/FantasyHex/Units/Mpiambina
-bounds:1718,17,32,28
+bounds:1684,17,32,28
 TileSets/FantasyHex/Units/Seaxman
-bounds:2008,1405,32,28
+bounds:1718,17,32,28
 TileSets/FantasyHex/Units/Sparapet
-bounds:1547,16,32,28
+bounds:1513,16,32,28
 UnitIcons/Airship
 bounds:1607,1539,100,100
 UnitIcons/Akyat Cannon
@@ -1382,23 +1380,23 @@ bounds:406,1037,200,200
 UnitIcons/Winged Hussar
 bounds:1308,933,100,100
 UnitPromotionIcons/Altitude Training
-bounds:1990,1023,50,50
+bounds:1986,454,50,50
 UnitPromotionIcons/Ambition
-bounds:1986,536,50,50
-UnitPromotionIcons/Ambush
 bounds:1990,1075,50,50
+UnitPromotionIcons/Ambush
+bounds:1986,506,50,50
 UnitPromotionIcons/Ambush Formation
-bounds:1990,1127,50,50
+bounds:1986,558,50,50
 UnitPromotionIcons/Anti-naval
-bounds:1990,889,50,50
+bounds:1598,10,50,50
 UnitPromotionIcons/Epic of Battle
 bounds:406,1239,200,200
 UnitPromotionIcons/Formation
-bounds:1976,224,50,50
+bounds:1976,230,50,50
 UnitPromotionIcons/Golden Age from Victories
 bounds:1954,796,50,50
 UnitPromotionIcons/Invulnerability
-bounds:1864,19,50,50
+bounds:1986,350,50,50
 UnitPromotionIcons/Targeting I (air)
 bounds:1803,1181,50,50
 UnitPromotionIcons/War Canoes
@@ -1408,206 +1406,210 @@ game4.png
 size:2048,512
 repeat:none
 PolicyIcons/Academy of Sciences
-bounds:986,238,50,50
-PolicyIcons/Consulates
 bounds:1150,382,50,50
-PolicyIcons/Cultural Centers
-bounds:1068,310,50,50
-PolicyIcons/Nationalism
-bounds:1232,454,50,50
-PolicyIcons/Silk Road
+PolicyIcons/Consulates
 bounds:822,22,50,50
+PolicyIcons/Cultural Centers
+bounds:1232,454,50,50
+PolicyIcons/Nationalism
+bounds:904,94,50,50
+PolicyIcons/Naval Tradition
+bounds:1068,310,50,50
+PolicyIcons/Silk Road
+bounds:986,166,50,50
 TileSets/5Hex/Tiles/Amber
-bounds:2,290,80,70
-TileSets/5Hex/Tiles/Amber+Mine
-bounds:822,290,80,70
-TileSets/5Hex/Tiles/Diamonds
-bounds:248,218,80,70
-TileSets/5Hex/Tiles/Jade
-bounds:658,434,80,70
-TileSets/5Hex/Tiles/Jade+Mine
-bounds:576,362,80,70
-TileSets/5Hex/Tiles/Lapis Lazuli
-bounds:576,434,80,70
-TileSets/5Hex/Tiles/Lapis Lazuli+Mine
-bounds:658,2,80,70
-TileSets/5Hex/Tiles/Obsidian
-bounds:330,74,80,70
-TileSets/5Hex/Tiles/Obsidian+Quarry
-bounds:412,218,80,70
-TileSets/5Hex/Units/Apedemaks Bow-2
-bounds:986,362,80,70
-TileSets/5Hex/Units/Apedemaks Bow-3
-bounds:494,434,80,70
-TileSets/5Hex/Units/Ballista Elephant
-bounds:494,2,80,70
-TileSets/5Hex/Units/Ballista Elephant-1
-bounds:2,434,80,70
-TileSets/5Hex/Units/Ballista Elephant-2
-bounds:740,74,80,70
-TileSets/5Hex/Units/Ballista Elephant-3
-bounds:248,146,80,70
-TileSets/5Hex/Units/Black Arquebusier
-bounds:822,218,80,70
-TileSets/5Hex/Units/Black Arquebusier-2
-bounds:740,362,80,70
-TileSets/5Hex/Units/Black Arquebusier-3
-bounds:84,218,80,70
-TileSets/5Hex/Units/Buffalo Hunter
-bounds:494,290,80,70
-TileSets/5Hex/Units/Buffalo Hunter-1
-bounds:330,146,80,70
-TileSets/5Hex/Units/Buffalo Hunter-3
-bounds:904,362,80,70
-TileSets/5Hex/Units/Dalai Lama
-bounds:84,146,80,70
-TileSets/5Hex/Units/Dalai Lama-1
-bounds:1150,434,80,70
-TileSets/5Hex/Units/Dalai Lama-2
-bounds:248,74,80,70
-TileSets/5Hex/Units/Fast Worker
-bounds:248,362,80,70
-TileSets/5Hex/Units/Ngangkari
-bounds:248,362,80,70
-TileSets/5Hex/Units/Fast Worker-1
-bounds:84,2,80,70
-TileSets/5Hex/Units/Ngangkari-1
-bounds:84,2,80,70
-TileSets/5Hex/Units/Fast Worker-3
-bounds:494,74,80,70
-TileSets/5Hex/Units/Ngangkari-3
-bounds:494,74,80,70
-TileSets/5Hex/Units/Heavy Chariot
-bounds:166,146,80,70
-TileSets/5Hex/Units/Heavy Chariot-1
-bounds:166,218,80,70
-TileSets/5Hex/Units/Heavy Chariot-2
-bounds:822,74,80,70
-TileSets/5Hex/Units/Heavy Chariot-3
-bounds:576,290,80,70
-TileSets/5Hex/Units/Hetairoi
-bounds:2,218,80,70
-TileSets/5Hex/Units/Hetairoi-1
-bounds:658,74,80,70
-TileSets/5Hex/Units/Hetairoi-2
-bounds:84,74,80,70
-TileSets/5Hex/Units/Konnitsa-2
-bounds:822,362,80,70
-TileSets/5Hex/Units/Konnitsa-3
-bounds:2,74,80,70
-TileSets/5Hex/Units/Krivis-1
-bounds:166,74,80,70
-TileSets/5Hex/Units/Krivis-3
-bounds:576,146,80,70
-TileSets/5Hex/Units/Laputtu
-bounds:330,362,80,70
-TileSets/5Hex/Units/Phalanx
-bounds:330,362,80,70
-TileSets/5Hex/Units/Laputtu-1
-bounds:330,2,80,70
-TileSets/5Hex/Units/Phalanx-1
-bounds:330,2,80,70
-TileSets/5Hex/Units/Laputtu-2
-bounds:84,434,80,70
-TileSets/5Hex/Units/Phalanx-2
-bounds:84,434,80,70
-TileSets/5Hex/Units/Laputtu-3
-bounds:822,146,80,70
-TileSets/5Hex/Units/Phalanx-3
-bounds:822,146,80,70
-TileSets/5Hex/Units/Longship
-bounds:494,218,80,70
-TileSets/5Hex/Units/Longship-2
-bounds:576,2,80,70
-TileSets/5Hex/Units/Longship-3
-bounds:2,2,80,70
-TileSets/5Hex/Units/Mamluk
-bounds:658,218,80,70
-TileSets/5Hex/Units/Mamluk-2
-bounds:412,2,80,70
-TileSets/5Hex/Units/Mamluk-3
-bounds:166,290,80,70
-TileSets/5Hex/Units/Matato'a
-bounds:330,434,80,70
-TileSets/5Hex/Units/Matato'a-1
-bounds:658,362,80,70
-TileSets/5Hex/Units/Matato'a-3
-bounds:1068,434,80,70
-TileSets/5Hex/Units/Mpiambina-1
-bounds:330,218,80,70
-TileSets/5Hex/Units/Mpiambina-3
-bounds:904,434,80,70
-TileSets/5Hex/Units/Nelayan
-bounds:740,218,80,70
-TileSets/5Hex/Units/Nelayan-1
-bounds:412,362,80,70
-TileSets/5Hex/Units/Nelayan-3
-bounds:822,434,80,70
-TileSets/5Hex/Units/Ngao Mbeba-2
-bounds:576,218,80,70
-TileSets/5Hex/Units/Ngao Mbeba-3
-bounds:166,362,80,70
-TileSets/5Hex/Units/Pioneer
-bounds:412,290,80,70
-TileSets/5Hex/Units/Ranchero
-bounds:412,290,80,70
-TileSets/5Hex/Units/Pittore
-bounds:576,74,80,70
-TileSets/5Hex/Units/Pittore-1
-bounds:412,146,80,70
-TileSets/5Hex/Units/Pittore-3
-bounds:904,290,80,70
-TileSets/5Hex/Units/Ranchero-2
-bounds:658,290,80,70
-TileSets/5Hex/Units/Pioneer-2
-bounds:658,290,80,70
-TileSets/5Hex/Units/Ranchero-3
-bounds:248,434,80,70
-TileSets/5Hex/Units/Pioneer-3
-bounds:248,434,80,70
-TileSets/5Hex/Units/Saethwyr-1
-bounds:84,290,80,70
-TileSets/5Hex/Units/Saethwyr-2
-bounds:986,290,80,70
-TileSets/5Hex/Units/Saethwyr-3
-bounds:166,2,80,70
-TileSets/5Hex/Units/Sarissophoroi
-bounds:2,146,80,70
-TileSets/5Hex/Units/Sarissophoroi-1
-bounds:740,2,80,70
-TileSets/5Hex/Units/Sarissophoroi-2
-bounds:248,2,80,70
-TileSets/5Hex/Units/Seaxman
-bounds:412,74,80,70
-TileSets/5Hex/Units/Seaxman-2
-bounds:986,434,80,70
-TileSets/5Hex/Units/Seaxman-3
-bounds:412,434,80,70
-TileSets/5Hex/Units/Ski Infantry
-bounds:166,434,80,70
-TileSets/5Hex/Units/Ski Infantry-1
-bounds:494,146,80,70
-TileSets/5Hex/Units/Ski Infantry-2
 bounds:84,362,80,70
-TileSets/5Hex/Units/Ski Infantry-3
-bounds:904,218,80,70
-TileSets/5Hex/Units/Sparapet
-bounds:1068,362,80,70
-TileSets/5Hex/Units/Sparapet-2
-bounds:658,146,80,70
-TileSets/5Hex/Units/Sparapet-3
-bounds:248,290,80,70
-TileSets/5Hex/Units/Square Sail Ship
-bounds:494,362,80,70
-TileSets/5Hex/Units/Square Sail Ship-1
-bounds:904,146,80,70
-TileSets/5Hex/Units/Square Sail Ship-2
-bounds:740,434,80,70
-TileSets/5Hex/Units/Square Sail Ship-3
-bounds:2,362,80,70
-TileSets/5Hex/Units/Ulan
-bounds:740,290,80,70
-TileSets/5Hex/Units/Ulan-2
-bounds:740,146,80,70
-TileSets/5Hex/Units/Ulan-3
+TileSets/5Hex/Tiles/Amber+Mine
+bounds:904,362,80,70
+TileSets/5Hex/Tiles/Diamonds
 bounds:330,290,80,70
+TileSets/5Hex/Tiles/Jade
+bounds:248,2,80,70
+TileSets/5Hex/Tiles/Jade+Mine
+bounds:658,434,80,70
+TileSets/5Hex/Tiles/Lapis Lazuli
+bounds:166,2,80,70
+TileSets/5Hex/Tiles/Lapis Lazuli+Mine
+bounds:740,74,80,70
+TileSets/5Hex/Tiles/Obsidian
+bounds:412,146,80,70
+TileSets/5Hex/Tiles/Obsidian+Quarry
+bounds:494,290,80,70
+TileSets/5Hex/Units/Apedemaks Bow-1
+bounds:2,434,80,70
+TileSets/5Hex/Units/Apedemaks Bow-2
+bounds:1068,434,80,70
+TileSets/5Hex/Units/Apedemaks Bow-3
+bounds:84,2,80,70
+TileSets/5Hex/Units/Ballista Elephant
+bounds:576,74,80,70
+TileSets/5Hex/Units/Ballista Elephant-1
+bounds:2,362,80,70
+TileSets/5Hex/Units/Ballista Elephant-2
+bounds:822,146,80,70
+TileSets/5Hex/Units/Ballista Elephant-3
+bounds:330,218,80,70
+TileSets/5Hex/Units/Black Arquebusier
+bounds:904,290,80,70
+TileSets/5Hex/Units/Black Arquebusier-2
+bounds:822,434,80,70
+TileSets/5Hex/Units/Black Arquebusier-3
+bounds:166,290,80,70
+TileSets/5Hex/Units/Buffalo Hunter
+bounds:576,362,80,70
+TileSets/5Hex/Units/Buffalo Hunter-1
+bounds:412,218,80,70
+TileSets/5Hex/Units/Buffalo Hunter-3
+bounds:986,434,80,70
+TileSets/5Hex/Units/Dalai Lama
+bounds:166,218,80,70
+TileSets/5Hex/Units/Dalai Lama-1
+bounds:740,2,80,70
+TileSets/5Hex/Units/Dalai Lama-2
+bounds:330,146,80,70
+TileSets/5Hex/Units/Fast Worker
+bounds:330,434,80,70
+TileSets/5Hex/Units/Ngangkari
+bounds:330,434,80,70
+TileSets/5Hex/Units/Fast Worker-1
+bounds:166,74,80,70
+TileSets/5Hex/Units/Ngangkari-1
+bounds:166,74,80,70
+TileSets/5Hex/Units/Fast Worker-3
+bounds:576,146,80,70
+TileSets/5Hex/Units/Ngangkari-3
+bounds:576,146,80,70
+TileSets/5Hex/Units/Heavy Chariot
+bounds:248,218,80,70
+TileSets/5Hex/Units/Heavy Chariot-1
+bounds:248,290,80,70
+TileSets/5Hex/Units/Heavy Chariot-2
+bounds:904,146,80,70
+TileSets/5Hex/Units/Heavy Chariot-3
+bounds:658,362,80,70
+TileSets/5Hex/Units/Hetairoi
+bounds:84,290,80,70
+TileSets/5Hex/Units/Hetairoi-1
+bounds:740,146,80,70
+TileSets/5Hex/Units/Hetairoi-2
+bounds:166,146,80,70
+TileSets/5Hex/Units/Konnitsa-2
+bounds:904,434,80,70
+TileSets/5Hex/Units/Konnitsa-3
+bounds:84,146,80,70
+TileSets/5Hex/Units/Krivis-1
+bounds:248,146,80,70
+TileSets/5Hex/Units/Krivis-3
+bounds:658,218,80,70
+TileSets/5Hex/Units/Laputtu
+bounds:412,434,80,70
+TileSets/5Hex/Units/Phalanx
+bounds:412,434,80,70
+TileSets/5Hex/Units/Laputtu-1
+bounds:412,74,80,70
+TileSets/5Hex/Units/Phalanx-1
+bounds:412,74,80,70
+TileSets/5Hex/Units/Laputtu-2
+bounds:2,290,80,70
+TileSets/5Hex/Units/Phalanx-2
+bounds:2,290,80,70
+TileSets/5Hex/Units/Laputtu-3
+bounds:904,218,80,70
+TileSets/5Hex/Units/Phalanx-3
+bounds:904,218,80,70
+TileSets/5Hex/Units/Longship
+bounds:576,290,80,70
+TileSets/5Hex/Units/Longship-2
+bounds:658,74,80,70
+TileSets/5Hex/Units/Longship-3
+bounds:84,74,80,70
+TileSets/5Hex/Units/Mamluk
+bounds:740,290,80,70
+TileSets/5Hex/Units/Mamluk-2
+bounds:494,74,80,70
+TileSets/5Hex/Units/Mamluk-3
+bounds:248,362,80,70
+TileSets/5Hex/Units/Matato'a
+bounds:2,74,80,70
+TileSets/5Hex/Units/Matato'a-1
+bounds:740,434,80,70
+TileSets/5Hex/Units/Matato'a-3
+bounds:658,2,80,70
+TileSets/5Hex/Units/Mpiambina-1
+bounds:412,290,80,70
+TileSets/5Hex/Units/Mpiambina-3
+bounds:494,2,80,70
+TileSets/5Hex/Units/Nelayan
+bounds:822,290,80,70
+TileSets/5Hex/Units/Nelayan-1
+bounds:494,434,80,70
+TileSets/5Hex/Units/Nelayan-3
+bounds:412,2,80,70
+TileSets/5Hex/Units/Ngao Mbeba-2
+bounds:658,290,80,70
+TileSets/5Hex/Units/Ngao Mbeba-3
+bounds:248,434,80,70
+TileSets/5Hex/Units/Pioneer
+bounds:494,362,80,70
+TileSets/5Hex/Units/Ranchero
+bounds:494,362,80,70
+TileSets/5Hex/Units/Pittore
+bounds:658,146,80,70
+TileSets/5Hex/Units/Pittore-1
+bounds:494,218,80,70
+TileSets/5Hex/Units/Pittore-3
+bounds:986,362,80,70
+TileSets/5Hex/Units/Ranchero-2
+bounds:740,362,80,70
+TileSets/5Hex/Units/Pioneer-2
+bounds:740,362,80,70
+TileSets/5Hex/Units/Ranchero-3
+bounds:2,146,80,70
+TileSets/5Hex/Units/Pioneer-3
+bounds:2,146,80,70
+TileSets/5Hex/Units/Saethwyr-1
+bounds:166,362,80,70
+TileSets/5Hex/Units/Saethwyr-2
+bounds:1068,362,80,70
+TileSets/5Hex/Units/Saethwyr-3
+bounds:248,74,80,70
+TileSets/5Hex/Units/Sarissophoroi
+bounds:84,218,80,70
+TileSets/5Hex/Units/Sarissophoroi-1
+bounds:822,74,80,70
+TileSets/5Hex/Units/Sarissophoroi-2
+bounds:330,74,80,70
+TileSets/5Hex/Units/Seaxman
+bounds:494,146,80,70
+TileSets/5Hex/Units/Seaxman-2
+bounds:576,2,80,70
+TileSets/5Hex/Units/Seaxman-3
+bounds:2,2,80,70
+TileSets/5Hex/Units/Ski Infantry
+bounds:2,218,80,70
+TileSets/5Hex/Units/Ski Infantry-1
+bounds:576,218,80,70
+TileSets/5Hex/Units/Ski Infantry-2
+bounds:166,434,80,70
+TileSets/5Hex/Units/Ski Infantry-3
+bounds:986,290,80,70
+TileSets/5Hex/Units/Sparapet
+bounds:1150,434,80,70
+TileSets/5Hex/Units/Sparapet-2
+bounds:740,218,80,70
+TileSets/5Hex/Units/Sparapet-3
+bounds:330,362,80,70
+TileSets/5Hex/Units/Square Sail Ship
+bounds:576,434,80,70
+TileSets/5Hex/Units/Square Sail Ship-1
+bounds:986,218,80,70
+TileSets/5Hex/Units/Square Sail Ship-2
+bounds:330,2,80,70
+TileSets/5Hex/Units/Square Sail Ship-3
+bounds:84,434,80,70
+TileSets/5Hex/Units/Ulan
+bounds:822,362,80,70
+TileSets/5Hex/Units/Ulan-2
+bounds:822,218,80,70
+TileSets/5Hex/Units/Ulan-3
+bounds:412,362,80,70
