@@ -125,8 +125,10 @@
         "cost": 40,
         "obsoleteTech": "Steam Power",
         "upgradesTo": "Airship",
-        "uniques": ["May upgrade to [Composite Bowman] through ruins-like effects"],
-        "promotions": ["Ignore terrain cost"],
+        "uniques": [
+            "May upgrade to [Composite Bowman] through ruins-like effects"
+        ],
+        "promotions": ["Ignore terrain cost", "Native Tongue"],
         "attackSound": "nonmetalhit"
     },
     {
@@ -1180,7 +1182,7 @@
         "requiredResource": "Iron",
         "hurryCostModifier": 20,
         "uniques": [
-            "Ignore terrain cost",
+            "Ignores terrain cost",
             "[+33]% Strength <during a Golden Age>"
         ],
         "attackSound": "metalhit"
@@ -1372,7 +1374,7 @@
         ],
         "uniques": [
             "Earn [200]% of killed [Military] unit's [Strength] as [Gold]",
-            "Only available <in cities with a [Reislauder Post]>",
+            "Only available <in cities with a [Reislaufer Post]>",
             "Cannot be purchased"
         ],
         "attackSound": "metalhit"
